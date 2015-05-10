@@ -1,0 +1,1316 @@
+New Division Bay;17.088;-61.883;AG;0
+New Division;17.083;-61.867;AG;0
+Division Vivero Forestal San Francisco de Bellocq;-38.790;-60.109;AR;0
+Cerro Division;-32.769;-69.478;AR;0
+Kimberley Statistical Division;-17.000;126.000;AU;0
+South Coast Statistical Division;-36.000;149.833;AU;0
+North Coast Statistical Division;-30.417;152.917;AU;0
+Division Creek;-22.267;143.233;AU;0
+Division Dam;-32.794;140.310;AU;0
+Division Dam;-29.779;134.980;AU;0
+Division Well;-36.171;140.150;AU;0
+Division Well;-28.018;116.315;AU;0
+Division Well;-25.801;120.062;AU;0
+Division Well;-24.853;117.054;AU;0
+Division Well;-28.222;116.517;AU;0
+Rajshahi Division;25.000;89.000;BD;0
+Dhaka Division;24.167;90.417;BD;0
+Khulna Division;22.917;89.250;BD;0
+Sylhet Division;24.500;91.667;BD;6765039
+Rangpur Division;25.833;89.000;BD;16412287
+Division Bay;50.197;-98.210;CA;0
+Division d'enregistrement d'Abitibi;49.083;-77.249;CA;0
+Division d'enregistrement d'Argenteuil;45.833;-74.416;CA;0
+Division d'enregistrement de Beauharnois;45.250;-74.133;CA;0
+Division d'enregistrement de Berthier;47.000;-74.416;CA;0
+Division d'enregistrement de Brome;45.083;-72.582;CA;0
+Division d'enregistrement de Chambly;45.450;-73.282;CA;0
+Division d'enregistrement de Champlain;46.567;-72.466;CA;0
+Division d'enregistrement de Chateauguay;45.100;-73.766;CA;0
+Division d'enregistrement de Chicoutimi;50.483;-70.549;CA;0
+Division d'enregistrement de Coaticook;45.417;-71.899;CA;0
+Division d'enregistrement de Compton;45.467;-71.499;CA;0
+Division d'enregistrement de Deux-Montagnes;45.467;-74.099;CA;0
+Division d'enregistrement de Drummond;45.750;-75.416;CA;0
+Division d'enregistrement de Frontenac;45.717;-70.849;CA;0
+Division d'enregistrement de Gatineau;46.383;-76.083;CA;0
+Division d'enregistrement de Hull;45.667;-75.666;CA;0
+Division d'enregistrement de Huntingdon;45.083;-74.166;CA;0
+Division d'enregistrement de Joliette;46.017;-73.449;CA;0
+Division d'enregistrement de Labelle;46.417;-75.333;CA;0
+Division d'enregistrement de Lac-Saint-Jean-Ouest;49.700;-73.466;CA;0
+Division d'enregistrement de La Prairie;45.333;-73.499;CA;0
+Division d'enregistrement de L'Assomption;45.833;-73.416;CA;0
+Division d'enregistrement de La Tuque;47.433;-72.782;CA;0
+Division d'enregistrement de Laval;45.583;-73.749;CA;0
+Division d'enregistrement de Maskinonge;46.467;-73.132;CA;0
+Division d'enregistrement de Missisquoi;45.150;-72.982;CA;0
+Division d'enregistrement de Montcalm;46.317;-74.216;CA;0
+Division d'enregistrement de Montreal;45.500;-73.666;CA;0
+Division d'enregistrement de Nicolet;46.267;-72.499;CA;0
+Division d'enregistrement de Papineau;45.800;-75.299;CA;0
+Division d'enregistrement de Pontiac;46.783;-77.116;CA;0
+Division d'enregistrement de Portneuf;46.917;-71.999;CA;0
+Division d'enregistrement de Richelieu;45.883;-73.149;CA;0
+Division d'enregistrement de Richmond;45.667;-71.982;CA;0
+Division d'enregistrement de Rouville;45.417;-72.999;CA;0
+Division d'enregistrement de Rouyn-Noranda;48.083;-79.000;CA;0
+Division d'enregistrement de Saguenay;50.967;-67.732;CA;0
+Division d'enregistrement de Saint-Hyacinthe;45.617;-72.949;CA;0
+Division d'enregistrement de Saint-Jean;45.133;-73.282;CA;0
+Division d'enregistrement de Sept-Iles;51.217;-61.865;CA;0
+Division d'enregistrement de Shawinigan;47.167;-73.449;CA;0
+Division d'enregistrement de Shefford;45.400;-72.549;CA;0
+Division d'enregistrement de Sherbrooke;45.417;-71.899;CA;0
+Division d'enregistrement des Iles-de-la-Madeleine;47.400;-61.799;CA;0
+Division d'enregistrement de Stanstead;45.083;-72.132;CA;0
+Division d'enregistrement de Temiscamingue;47.250;-78.666;CA;0
+Division d'enregistrement de Terrebonne;46.083;-74.333;CA;0
+Division d'enregistrement de Trois-Rivieres;46.417;-72.749;CA;0
+Division d'enregistrement de Vaudreuil;45.350;-74.216;CA;0
+Division d'enregistrement de Vercheres;45.783;-73.349;CA;0
+Division Head;43.433;-66.032;CA;0
+Division Island;44.833;-76.249;CA;0
+Division Lake;46.703;-81.559;CA;0
+Division Lake;54.357;-125.685;CA;0
+Division Mountain;51.892;-117.019;CA;0
+Division Mountain;61.322;-136.080;CA;0
+Kamloops Division Yale Land District;50.666;-119.919;CA;0
+Lac de la Division;48.043;-74.676;CA;0
+Lac de la Division;46.421;-76.994;CA;0
+Lac de la Division;46.913;-77.210;CA;0
+Lac de la Division;47.587;-74.478;CA;0
+North Division Bog;43.950;-65.216;CA;0
+Osoyoos Division Yale Land District;50.083;-119.169;CA;0
+Similkameen Division Yale Land District;49.333;-119.169;CA;0
+Yale Division Yale Land District;49.666;-121.253;CA;0
+Camp Division;4.817;16.067;CF;0
+Estero La Division;-41.783;-72.000;CL;0
+Islas Division;-50.075;-75.020;CL;0
+Ndian Division;4.833;8.833;CM;0
+Momo Division;5.901;9.974;CM;0
+Mezam Division;5.979;10.148;CM;0
+Metchum Division;6.500;10.167;CM;0
+Meme Division;4.833;9.333;CM;0
+Manyu Division;5.820;9.370;CM;0
+Fako Division;4.167;9.167;CM;0
+Donga and Mantung Division;6.667;10.833;CM;0
+Bui Division;6.250;10.750;CM;0
+Cano de la Division;3.394;-72.963;CO;0
+Cano Division del Retiro;3.448;-72.904;CO;0
+La Division;8.168;-73.246;CO;0
+Cano Division de Santuario;3.429;-73.024;CO;0
+Cano La Division;3.160;-73.071;CO;0
+Rio Division;9.430;-83.953;CR;0
+La Division;21.050;-78.333;CU;0
+Western Division;-18.000;177.500;FJ;0
+Northern Division;-16.500;179.500;FJ;0
+Central Division;-18.000;178.333;FJ;0
+Eastern Division;-18.500;180.000;FJ;37960
+N H S Lomond & Argyll Division;55.993;-4.592;GB;0
+Forth Valley Acute Operating Division;55.999;-3.792;GB;0
+Health Services Mental Health Division;53.747;-1.539;GB;0
+Western Division;13.250;-16.333;GM;0
+Upper River Division;13.333;-14.167;GM;187972
+North Bank Division;13.500;-16.000;GM;0
+Central River Division;13.583;-14.917;GM;3584
+Lower River Division;13.400;-15.660;GM;73474
+Asan US Assault Beaches - 3rd Marine Division Reinforced WW2;13.475;144.717;GU;0
+Fonte Plateau Battlefield WW2 - 3rd Marines Division;13.463;144.733;GU;0
+Mount Santa Rosa Battlefield WW2 - 77th Army Division;13.536;144.914;GU;0
+Amravati Division;20.935;77.757;IN;0
+Aurangabad Division;19.885;75.340;IN;0
+Konkan Division;19.076;72.869;IN;24000000
+Nagpur Division;21.149;79.107;IN;0
+Nashik Division;19.983;73.789;IN;0
+Satara Division;18.518;73.859;IN;0
+Pune Division;18.747;73.755;IN;0
+Kinango Division;-4.081;39.360;KE;0
+Kubo Division;-4.204;39.339;KE;0
+Mahadova Group Kabahabokka Division;7.019;81.158;LK;0
+Kobowaka Division;6.666;80.134;LK;0
+Haddaraganga Division;6.726;80.540;LK;0
+Ambetenna Estate Cley Division;6.526;80.071;LK;0
+Amanadowa Division;7.008;81.159;LK;0
+Valikamam South Division;9.752;80.041;LK;0
+Valikamam North Division;9.794;80.039;LK;0
+Valikamam West Division;9.744;79.926;LK;0
+Valikamam South West Division;9.753;79.987;LK;0
+Jaffna Division;9.667;80.018;LK;50759
+Islands South Division;9.626;79.898;LK;0
+Islands North Division;9.686;79.847;LK;0
+Nallur Division;9.661;80.054;LK;68048
+Thenmaradchchi Division;9.690;80.186;LK;0
+Vadamaradchchi East Division;9.647;80.375;LK;0
+Pachchilaipallai Division;9.590;80.362;LK;0
+Poonakary Division;9.403;80.154;LK;20225
+Karachchi Division;9.361;80.302;LK;61137
+Mahaoya Division;7.576;81.353;LK;20715
+Tangalla Division;6.079;80.831;LK;0
+Puthukkudiyiruppu Division;9.267;80.554;LK;0
+Vavuniya South Division;8.824;80.457;LK;13070
+Nedunkerny Division;9.008;80.585;LK;0
+Musali Division;8.684;80.013;LK;0
+Venkalacheddikulam Division;8.693;80.291;LK;0
+Wariyapola Division;7.663;80.234;LK;61141
+Ganewatta Division;7.664;80.359;LK;39909
+Kuliyapitiya East Division;7.473;80.163;LK;53827
+Weerambugedera Division;7.466;80.268;LK;0
+Kurunegala Division;7.466;80.347;LK;0
+Mallawapitiya Division;7.471;80.392;LK;52398
+Panduwasnuwara Division;7.596;80.082;LK;63492
+Katupota Division;7.561;80.169;LK;0
+Maspota Division;7.549;80.297;LK;0
+Mawathagama Division;7.443;80.436;LK;65555
+Mawanella Division;7.242;80.479;LK;111307
+Yatinuwara Division;7.283;80.541;LK;105962
+Kandy and Four Gravets Gangawata Division;7.278;80.633;LK;0
+Harispattuwa Division;7.334;80.590;LK;88002
+Patahewaheta Division;7.228;80.706;LK;0
+Kundasale Division;7.303;80.712;LK;127278
+Patadumbara Division;7.350;80.663;LK;0
+Panwila Division;7.414;80.740;LK;0
+Akurana Division;7.393;80.618;LK;63195
+Ukuwela Division;7.430;80.628;LK;67542
+Pujapitiya Division;7.400;80.565;LK;0
+Thumpane Division;7.351;80.490;LK;37356
+Narammala Division;7.396;80.192;LK;55931
+Polgahawela Division;7.379;80.310;LK;64917
+Alawwa Division;7.332;80.218;LK;63381
+Rambukkana Division;7.325;80.388;LK;82373
+Ibbagamuwa Division;7.625;80.469;LK;84083
+Pallepola Division;7.644;80.598;LK;29488
+Yatawatta Division;7.551;80.585;LK;30113
+Matale Division;7.539;80.626;LK;74529
+Ridigama Division;7.522;80.518;LK;0
+Ambanganga Korale Division;7.561;80.676;LK;0
+Rattota Division;7.487;80.683;LK;51156
+Udunuwara Division;7.223;80.557;LK;110232
+Deltota Division;7.186;80.692;LK;0
+Doluwa Division;7.166;80.649;LK;49480
+Uda Palata Division;7.136;80.594;LK;0
+Aranayaka Division;7.167;80.442;LK;68147
+Ganga Ihala Korale Division;7.108;80.515;LK;54674
+Nawalapitiya Division;7.022;80.537;LK;0
+Kotmale Division;7.043;80.651;LK;0
+Giribawa Division;8.110;80.180;LK;31320
+Nawagattegama Division;8.019;80.093;LK;14412
+Galgamuwa Division;8.014;80.264;LK;54910
+Ehetuwewa Division;7.964;80.355;LK;25695
+Ambanpola Division;7.906;80.224;LK;22833
+Horana Division;6.758;80.051;LK;112441
+Ingiriya Division;6.764;80.148;LK;53645
+Kiriella Division;6.755;80.274;LK;32457
+Elapatha Division;6.663;80.360;LK;37606
+Ayagama Division;6.648;80.300;LK;30584
+Madurawala Division;6.652;80.084;LK;34245
+Bulathsinhala Division;6.654;80.179;LK;64635
+Halwathura Central Division;6.710;80.181;LK;0
+Halwathura Lower Division;6.710;80.181;LK;0
+Halwathura Upper Division;6.713;80.197;LK;0
+Nattandiya Division;7.399;79.872;LK;62106
+Pannala Division;7.371;80.031;LK;123551
+Dankotuwa Division;7.325;79.907;LK;62196
+Wennappuwa Division;7.323;79.852;LK;68055
+Divulapitiya Division;7.255;79.999;LK;143871
+Medawachchiya Division;8.579;80.485;LK;46743
+Bope Poddala Division;6.085;80.217;LK;0
+Galle Four Gravets Division;6.052;80.200;LK;101159
+Akmeemana Division;6.061;80.287;LK;78051
+Imaduwa Division;6.036;80.358;LK;44703
+Habaraduwa Division;6.005;80.315;LK;62095
+Anamaduwa Division;7.901;79.997;LK;38171
+Mahakumbukkadawala Division;7.858;79.896;LK;18576
+Mundel Division;7.851;79.815;LK;0
+Rasnayakapura Division;7.762;80.027;LK;21838
+Arachchikattuwa Division;7.692;79.847;LK;40737
+Pallama Division;7.716;79.934;LK;24379
+Kebitigollewa Division;8.707;80.705;LK;0
+Nuwaragam Palata Central Division;8.419;80.356;LK;0
+Wilachchiya Division;8.532;80.191;LK;0
+Kaddukulam Pattu East Division;8.687;81.155;LK;0
+Trincomalee Town and Gravets Division;8.587;81.178;LK;97234
+Yapamma Group Kehelwatta Division;7.008;81.216;LK;0
+Yapamma Group Deysbrook Division;7.001;81.209;LK;0
+Yapame Group Yapamma Division;7.008;81.184;LK;0
+Mahadowa Group Mahadowa Division;7.005;81.172;LK;0
+Bibile Division;7.196;81.287;LK;40132
+Madulla Division;7.178;81.455;LK;31188
+Medagama Division;7.049;81.290;LK;35611
+Lunugala Division;7.045;81.209;LK;31092
+Moratuwa Division;6.768;79.885;LK;167160
+Panadura Division;6.711;79.916;LK;181724
+Bandaragama Division;6.722;79.978;LK;108889
+Millaniya Division;6.656;80.036;LK;52078
+Kalutara Division;6.618;79.968;LK;159225
+Dodangoda Division;6.568;80.048;LK;63705
+Eravur Division I;7.765;81.616;LK;0
+Eravur Town Division;7.778;81.603;LK;24632
+Manmunai North Division;7.715;81.716;LK;86028
+Kattankudy Division;7.679;81.734;LK;40237
+Embilipitiya Division;6.369;80.803;LK;133600
+Sevanagala Division;6.377;80.932;LK;41639
+Tanamalwila Division;6.451;81.042;LK;0
+Horowupotana Division;8.530;80.850;LK;0
+Tampalakamam Division;8.496;81.053;LK;0
+Buttala Division;6.659;81.286;LK;52476
+Medirigiriya Division;8.184;81.039;LK;64926
+Pottuvil Division Three;6.914;81.776;LK;0
+Siyambalanduwa Division;6.851;81.542;LK;53059
+Lahugala Division;6.822;81.700;LK;8900
+Pottuvil Division;6.949;81.794;LK;0
+Damana Division;7.153;81.624;LK;38489
+Alayadiwembu Division;7.175;81.788;LK;22411
+Thirukkovil Division;7.095;81.787;LK;25187
+Elston Estate Pahala Division;6.918;80.205;LK;0
+Elston Estate Uda Division;6.911;80.195;LK;0
+Bingiriya Division;7.614;79.958;LK;61976
+Chilaw Division;7.575;79.836;LK;62475
+Madampe Division;7.522;79.869;LK;47832
+Kuliyapitiya West Division;7.467;80.045;LK;77222
+Udubaddawa Division;7.479;79.948;LK;51972
+Mahawewa Division;7.455;79.838;LK;50628
+Vanathavillu Division;8.341;79.893;LK;0
+Kalpitiya Division;8.180;79.723;LK;86019
+Morawewa Division;8.616;81.028;LK;7946
+Gomarankadawela Division;8.744;80.963;LK;0
+Kuchchaveli Division;8.801;81.058;LK;33100
+Nochchiyagama Division;8.332;80.115;LK;49730
+Rajangana Division;8.181;80.185;LK;0
+Tambuttegama Division;8.151;80.318;LK;0
+Talawa Division;8.197;80.385;LK;0
+Nachchaduwa Division;8.259;80.408;LK;0
+Karuwalagaswewa Division;8.121;79.996;LK;23376
+Puttalam Division;7.953;79.855;LK;82041
+Negombo Division;7.207;79.842;LK;141676
+Katana Division;7.194;79.891;LK;233854
+Minuwangoda Division;7.155;79.980;LK;178401
+Ja-Ela Division;7.076;79.904;LK;201154
+Wattala Division;7.045;79.871;LK;174336
+Gampaha Division;7.076;79.992;LK;196445
+Mahara Division;7.010;80.012;LK;207230
+Mirigama Division;7.225;80.128;LK;164166
+Warakapola Division;7.204;80.226;LK;112583
+Kegalla Division;7.212;80.366;LK;0
+Bulathkohupitiya Division;7.102;80.363;LK;46813
+Attanagalla Division;7.120;80.100;LK;178816
+Ruwanwella Division;7.069;80.219;LK;63313
+Yatiyantota Division;7.035;80.361;LK;0
+Kelaniya Division;6.972;79.911;LK;134693
+Biyagama Division;6.969;79.977;LK;186862
+Colombo Division;6.943;79.863;LK;318048
+Kolonnawa Division;6.935;79.914;LK;190817
+Kaduwela Division;6.903;79.978;LK;252057
+Homagama Division;6.835;80.018;LK;236179
+Kesbewa Division;6.800;79.930;LK;244062
+Nuwara Eliya Division;6.910;80.725;LK;210968
+Ginigathhena Division;6.871;80.558;LK;0
+Ratnapura Division;6.740;80.470;LK;119368
+Imbulpe Division;6.721;80.734;LK;59283
+Balangoda Division;6.621;80.762;LK;81105
+Weligepola Division;6.551;80.732;LK;30778
+Nivithigala Division;6.572;80.459;LK;59973
+Pelmadulla Division;6.648;80.515;LK;89411
+Opanayaka Division;6.615;80.621;LK;26531
+Medahinna North Division;6.731;80.717;LK;0
+Parawatta Division;6.587;80.472;LK;0
+Dehenakanda Division;6.720;80.559;LK;0
+Agaslanda Upper Division;6.704;80.612;LK;0
+Walebodawatta Upper Division;6.724;80.652;LK;0
+Delenagala West Division;6.740;80.682;LK;0
+Matugama Division;6.485;80.090;LK;0
+Agalawatta Division;6.511;80.166;LK;36456
+Palinda Nuwara Division;6.509;80.275;LK;0
+Bentota Division;6.389;80.058;LK;0
+Walallawita Division;6.412;80.178;LK;0
+Pannil Kanda Division;6.432;80.123;LK;0
+Ambetenna Estate Pantiya Division;6.542;80.088;LK;0
+Vogan Estate Upper Division;6.538;80.104;LK;0
+Kahawatta Division;6.533;80.546;LK;43026
+Godakawela Division;6.502;80.632;LK;75885
+Kolonna Division;6.392;80.673;LK;45709
+Kalawana Division;6.456;80.450;LK;50968
+Neluwa Division;6.360;80.414;LK;28541
+Padawiya Division;8.886;80.841;LK;0
+Palagala Division;7.908;80.533;LK;33740
+Galnewa Division;8.030;80.454;LK;34718
+Ipalogama Division;8.090;80.505;LK;38688
+Kekirawa Division;8.067;80.615;LK;58879
+Palugaswewa Division;8.086;80.730;LK;15557
+Dambethenna Division;6.783;81.013;LK;0
+Hali Ela Division;6.952;81.005;LK;0
+Ella Division;6.872;81.065;LK;44763
+Bandarawela Division;6.827;81.002;LK;65111
+Welimada Division;6.867;80.877;LK;100434
+Gonakele Group Lower Division;6.939;81.119;LK;0
+Haputale Division;6.791;80.955;LK;48485
+Uva Paranagama Division;6.965;80.923;LK;78899
+Passara Division;6.987;81.157;LK;48576
+Badalkumbura Division;6.872;81.217;LK;39880
+Monaragala Division;6.834;81.353;LK;0
+Kandahena Group Lower Division;6.867;81.156;LK;0
+Passara Group Galaboda Division;6.957;81.204;LK;0
+Passara Group Medumpitiya Division;6.943;81.209;LK;0
+El-teb Group Lower Division;6.956;81.180;LK;0
+El-teb Group Kitulkele Division;6.951;81.153;LK;0
+Ury Group Agaratenna Division;6.964;81.140;LK;0
+Passara Group Hanita Division;6.942;81.176;LK;0
+El-teb Group Upper Division;6.971;81.180;LK;0
+Hopton Group Old Factory Division;6.971;81.197;LK;0
+Hopton Group Bulugolla Division;6.975;81.189;LK;0
+Kehelwatta Division;6.982;81.197;LK;0
+Hopton Group Bungalow Division;6.984;81.190;LK;0
+Hopton Group Memale Division;6.992;81.175;LK;0
+Hopton Group Ambalangoda Division;6.994;81.186;LK;0
+Kehelwatta Desbrook Division;6.996;81.215;LK;0
+Bulugolla Division;6.972;81.217;LK;0
+Passara Group Polgahalanda Division;6.933;81.179;LK;0
+Passara Group Thennuge Division;6.932;81.181;LK;0
+El-teb Group Galbokka Division;6.952;81.138;LK;0
+Kanawerella Group Division;6.904;81.139;LK;0
+Demmiria Group Division;6.904;81.167;LK;0
+Demmeria Group Division Two;6.915;81.152;LK;0
+Passara Division;6.918;81.138;LK;0
+Demmeria Group Division;6.928;81.156;LK;0
+Gonakele Group Upper Division;6.923;81.139;LK;0
+Upper Division;6.767;80.784;LK;0
+Haldummulla Division;6.714;80.977;LK;37482
+Wellawaya Division;6.631;81.125;LK;59770
+Beruwala Division;6.494;80.006;LK;164507
+Kotapola Division;6.322;80.537;LK;63072
+Pasgoda Division;6.274;80.612;LK;58869
+Katuwana Division;6.250;80.686;LK;46548
+Pitabeddara Division;6.243;80.473;LK;50827
+Weeraketiya Division;6.178;80.753;LK;41430
+Okawela Division;6.127;80.694;LK;0
+Hakmana Division;6.099;80.649;LK;31464
+Mulatiyana Division;6.148;80.586;LK;49943
+Aturaliya Division;6.119;80.509;LK;0
+Akuressa Division;6.137;80.444;LK;52676
+Hambantota Division;6.208;81.111;LK;57053
+Angunakolapelessa Division;6.193;80.862;LK;48010
+Ambalantota Division;6.169;80.964;LK;72664
+Suriyawewa Division;6.299;81.009;LK;0
+Badulla Division;6.989;81.087;LK;74751
+Manthai West Division;8.944;79.980;LK;14630
+Gloden Estate Godahena Division;6.539;80.055;LK;0
+Kandahena Group Upper Division;6.877;81.137;LK;0
+Division Two Camp;6.300;-10.398;LR;0
+Division Two Camp;6.300;-10.400;LR;0
+Division Twenty-two Camp (2);6.400;-10.350;LR;0
+Division Twenty-two;6.425;-10.365;LR;0
+Division Twenty-three Camp;6.418;-10.357;LR;0
+Division Thirty-eight Camp;6.476;-10.333;LR;0
+Division Twenty-seven Camp;6.452;-10.318;LR;0
+Division Twenty-seven Camp (1);6.450;-10.333;LR;0
+Division Twenty-nine Camp;6.441;-10.281;LR;0
+Division Twenty-four Camp (2);6.450;-10.367;LR;0
+Division Twenty-four Camp;6.444;-10.366;LR;0
+Division Twenty-five Camp;6.466;-10.367;LR;0
+Division Twenty-eight Camp (2);6.433;-10.300;LR;0
+Division Twenty-eight Camp (1);6.433;-10.317;LR;0
+Division Twenty Camp (3);6.450;-10.433;LR;0
+Division Twenty Camp;6.456;-10.474;LR;0
+Division Twenty Camp;6.457;-10.439;LR;0
+Division Twenty-one;6.456;-10.458;LR;0
+Division Twelve Camp;6.367;-10.433;LR;0
+Division Three Headquarters;6.750;-10.950;LR;0
+Division Three Camp;6.312;-10.424;LR;0
+Division Three Camp;4.567;-7.683;LR;0
+Division Thirty-three Camp;6.500;-10.267;LR;0
+Division Thirty-six Camp (2);6.383;-10.350;LR;0
+Division Thirty-six Camp (1);6.383;-10.333;LR;0
+Division Thirty-seven Camp;6.392;-10.315;LR;0
+Division Thirty-nine Camp (3);6.350;-10.317;LR;0
+Division Thirty-nine Camp;6.363;-10.341;LR;0
+Division Thirty-nine Camp (1);6.383;-10.333;LR;0
+Division Thirty-four Camp;6.478;-10.258;LR;0
+Division Thirty-five Camp (3);6.450;-10.250;LR;0
+Division Thirty-five Camp (2);6.449;-10.238;LR;0
+Division Thirty-five;6.423;-10.289;LR;0
+Division Thirty-eight Camp;6.409;-10.294;LR;0
+Division Thirty Camp (3);6.450;-10.300;LR;0
+Division Thirty Camp (2);6.467;-10.283;LR;0
+Division Thirty Camp;6.491;-10.289;LR;0
+Division Thirty Camp (1);6.483;-10.233;LR;0
+Division Thirteen Camp (2);6.383;-10.383;LR;0
+Division Thirteen Camp;6.376;-10.398;LR;0
+Division Ten Camp (2);6.340;-10.474;LR;0
+Division Ten Camp;6.350;-10.467;LR;0
+Division Sixteen Old Camp;6.400;-10.417;LR;0
+Division Sixteen Camp (2);6.400;-10.433;LR;0
+Division Sixteen Camp (1);6.383;-10.433;LR;0
+Division Six Old Camp;6.325;-10.461;LR;0
+Division Six New Camp;6.337;-10.459;LR;0
+Division Seventeen Camp;6.412;-10.459;LR;0
+Division Seven Old Camp;6.346;-10.438;LR;0
+Division Seven New Camp;6.333;-10.417;LR;0
+Division Seven Camp;6.333;-10.417;LR;0
+Division One Camp;6.318;-10.371;LR;0
+Division One Camp;6.339;-10.366;LR;0
+Division One Camp;4.550;-7.667;LR;0
+Division Nine New Camp;6.350;-10.383;LR;0
+Division Nine Camp;6.364;-10.375;LR;0
+Division Fourteen Camp (4);6.417;-10.383;LR;0
+Division Fourteen Camp (3);6.400;-10.400;LR;0
+Division Fourteen Camp (2);6.400;-10.400;LR;0
+Division Fourteen Camp;6.401;-10.392;LR;0
+Division Four Camp;6.300;-10.450;LR;0
+Division Four Camp;4.583;-7.633;LR;0
+Division Forty-two Camp;6.330;-10.339;LR;0
+Division Forty-three Camp;6.341;-10.329;LR;0
+Division Forty-one Camp;6.383;-10.279;LR;0
+Division Forty-four Camp (4);6.317;-10.333;LR;0
+Division Forty-four Camp (3);6.317;-10.333;LR;0
+Division Forty-four Camp (2);6.317;-10.317;LR;0
+Division Forty-four Camp;6.310;-10.347;LR;0
+Division Forty Camp (2);6.350;-10.300;LR;0
+Division Forty Camp;6.358;-10.303;LR;0
+Division Five Camp;6.317;-10.400;LR;0
+Division Fifteen Camp;6.398;-10.461;LR;0
+Division Eleven Camp (2);6.367;-10.467;LR;0
+Division Eleven Camp;6.377;-10.470;LR;0
+Division Twenty-six;6.454;-10.331;LR;0
+Division Thirty-four;6.464;-10.277;LR;0
+Division Eighteen;6.402;-10.470;LR;0
+Wa Self-Administered Division;22.656;98.907;MM;0
+Assault Beaches RED 2nd Marines Division WW2;15.172;145.699;MP;0
+Assault Beaches GREEN 2nd Marines Division WW2;15.164;145.696;MP;0
+Assault Beaches YELLOW 4th Marines Division WW2;15.136;145.691;MP;0
+Assault Beaches BLUE 4th Marines Division WW2;15.146;145.694;MP;0
+Landing Beach 27th Army Reserve Division WW2;15.141;145.693;MP;0
+Division del Norte;22.900;-98.867;MX;0
+Division del Norte;24.800;-98.041;MX;0
+Estacion Empresa Division Oro;20.131;-98.769;MX;0
+Estacion Empresa Division Oro;20.118;-98.750;MX;0
+Estacion Crucero C Division Puebla;19.568;-98.318;MX;0
+Estacion Crucero C Division Mexicano;19.565;-98.297;MX;0
+Division del Norte;18.529;-90.764;MX;0
+Division del Norte;31.627;-112.411;MX;0
+Division del Norte;26.888;-104.364;MX;0
+Division del Norte;29.120;-107.562;MX;0
+Division del Norte;25.286;-104.429;MX;0
+Division del Norte (Los Lobos);26.244;-105.896;MX;114
+Division del Norte (Los Remedios);26.889;-104.366;MX;13
+Division del Norte;26.244;-105.895;MX;0
+Division del Norte;25.884;-103.358;MX;194
+Division del Norte;25.529;-103.390;MX;0
+Division del Norte;19.082;-102.613;MX;0
+Division del Norte;31.332;-116.183;MX;0
+Nueva Division del Bayo (Guatemala);17.840;-92.489;MX;1615
+Division del Norte;22.393;-98.871;MX;881
+Division del Norte (Santa Rosa);18.831;-96.728;MX;585
+Division del Norte Primera Seccion;22.208;-100.936;MX;227
+General de Division Candido Aguilar;17.257;-94.194;MX;193
+Division del Norte (La Laguna y San Vicente);17.068;-93.278;MX;162
+Division del Norte;17.588;-92.863;MX;141
+Division del Norte;17.458;-92.036;MX;74
+Colonia Division;23.984;-104.039;MX;13
+Joya Division Contla;19.782;-103.230;MX;10
+Division del Sur;18.803;-88.696;MX;10
+La Y Griega (La Division del Rincon);18.571;-95.482;MX;6
+La Division;28.583;-103.630;MX;4
+West Country Estate Eastern Division;2.950;101.817;MY;0
+Wessyngton Estate Division;1.867;103.333;MY;0
+United Patani Estate Selambau Division;5.683;100.600;MY;0
+United Patani Estate Rusa Division;5.650;100.567;MY;0
+Sungai Senarut Estate Jementah Division;2.467;102.700;MY;0
+Sungai Kelamah Estate Awat Division;2.550;102.633;MY;0
+Sungai Gappin Division;2.683;101.550;MY;0
+Sungai Buaia Estate Telok Datok Division;2.800;101.517;MY;0
+Sepang Estate D Division;2.700;101.750;MY;0
+Sempah Estate Sempah Division;5.183;100.500;MY;0
+Selangor Coconut Limited Kilkee Division;2.783;101.450;MY;0
+Pertang Estate Warrian Division;2.983;102.217;MY;0
+Penang Rubber and Coconut Plantation Changkat Division;5.217;100.467;MY;0
+Nagappa Estate Jementah Division;2.417;102.683;MY;0
+Muar River Estate Kampong Tambang Division;2.617;102.717;MY;0
+Eastern Realty Company Estate Sungai Buloh Division;1.450;103.917;MY;0
+Dusun Durian Estate Kelanang Bara Division;2.800;101.467;MY;0
+Damansara Estate Bukit Lanchong Division;3.000;101.567;MY;0
+Craigielea Estate Kim Kee Division;2.083;102.683;MY;0
+Castlefield Estate Bukit Dinkel Division;3.050;101.633;MY;0
+Bukit Tunggal Division;3.683;101.483;MY;0
+Bukit Raja Estate Western Division;3.100;101.433;MY;0
+Bukit Raja Estate Eastern Division;3.067;101.467;MY;0
+Benar Division Estate;2.900;101.867;MY;0
+Bekoh Estate Nyalas Division;2.400;102.500;MY;0
+Baling Estate Keok Kee Division;5.567;100.750;MY;0
+Bukit Pahang Division;4.517;103.389;MY;0
+Owerri Division;5.500;7.000;NG;0
+Jos Division;9.917;8.917;NG;0
+Ekiti Division;7.583;5.250;NG;0
+Ika North Administrative Division;6.242;6.281;NG;0
+Division Hill;-42.033;173.750;NZ;0
+Division Spur;-44.068;169.190;NZ;0
+Division Hill;-45.028;170.930;NZ;0
+Division Creek;-41.778;174.050;NZ;0
+Division Hill;-42.018;173.750;NZ;0
+Quebrada Division;8.700;-82.283;PA;0
+Cerro Division;-9.207;-78.568;PE;0
+Waum Division;-3.383;151.833;PG;0
+Mesi Division;-3.433;151.917;PG;0
+Main Division;-3.450;151.933;PG;0
+Main Division;-3.367;151.800;PG;0
+Kinebug Division;-3.400;151.883;PG;0
+Katana Division;-3.317;151.767;PG;0
+Kantomut Division;-3.383;151.867;PG;0
+Dampit Division;-3.450;151.967;PG;0
+Coca-Cola Export Division;14.225;121.120;PH;0
+Universal Robina Corporation Grocery Division;14.278;120.938;PH;0
+Sargodha Division;31.780;72.291;PK;0
+Rawalpindi Division;33.167;73.000;PK;0
+Quetta Division;30.250;68.500;PK;0
+Peshawar Division;34.022;72.002;PK;0
+Multan Division;30.000;71.667;PK;0
+Malakand Division;35.500;72.000;PK;0
+Makran Division;26.000;63.500;PK;0
+Lahore Division;31.167;74.500;PK;0
+Khairpur Division;27.250;69.000;PK;0
+Hyderabad Division;25.250;68.750;PK;0
+Hazara Division;34.500;73.250;PK;0
+Gujranwala Division;32.450;74.133;PK;0
+Faisalabad Division;31.250;72.800;PK;0
+Bahawalpur Division;28.500;71.500;PK;0
+Executive Jamrao and Tharparkar Division;25.531;69.001;PK;0
+Highway Sub Division Hyderabad;25.396;68.403;PK;0
+Division de Archivo Central;18.403;-66.047;PR;0
+Division de Impresos;18.402;-66.054;PR;0
+Colonia General de Division A. Fretes Davalos;-24.450;-55.150;PY;0
+Colonia General de Division A. Fretes Davalos;-23.367;-56.517;PY;0
+Kampala Central Division;0.325;32.575;UG;0
+Central Division;0.422;33.214;UG;0
+Katwe/Butego Division;-0.332;31.740;UG;0
+Nyendo/Senyange Division;-0.334;31.758;UG;0
+Masese/Walukuba Division;0.428;33.252;UG;0
+Central Division;-0.552;30.170;UG;0
+Ishaka Division;-0.552;30.137;UG;0
+Nyangahya Division;1.638;31.710;UG;0
+Nyakabirizi Division;-0.524;30.217;UG;0
+Karujubu Division;1.712;31.677;UG;0
+Mpumudde/Kimaka Division;0.451;33.200;UG;0
+Southern Division;-1.275;29.992;UG;0
+Busiisi Division;1.415;31.311;UG;0
+Division B;-0.050;32.444;UG;0
+Bujumbura Division;1.475;31.344;UG;0
+Kakoba Division;-0.600;30.679;UG;0
+Nyamwamba Division;0.200;30.115;UG;0
+Bulembia Division;0.266;29.973;UG;0
+Northern Division;-1.240;29.981;UG;0
+Nyamitanga Division;-0.626;30.657;UG;0
+Eastern Division;0.467;34.094;UG;0
+Eastern Division;1.709;33.623;UG;0
+Central Division;0.148;30.063;UG;0
+Central Division;2.233;32.909;UG;0
+Southern Division;0.635;30.270;UG;0
+Goma Division;0.384;32.703;UG;0
+Eastern Division;-0.883;30.282;UG;0
+Eastern Division;-0.778;29.946;UG;0
+Kahoora Division;1.423;31.347;UG;0
+Eastern Division;0.647;30.298;UG;0
+Adyel Division;2.266;32.893;UG;0
+Western Division;1.710;33.604;UG;0
+Western Division;0.688;34.170;UG;0
+Western Division;0.675;30.271;UG;0
+Wanale Division;1.066;34.193;UG;0
+Arua Hill Division;3.012;30.920;UG;0
+Central Division;0.343;32.748;UG;0
+Central Division;0.609;33.480;UG;0
+Division A;0.051;32.474;UG;0
+Eastern Division;0.682;34.193;UG;0
+Northern Division;2.532;34.661;UG;0
+Oli River Division;3.028;30.911;UG;0
+Northern Division;1.091;34.178;UG;0
+Central Division;0.323;32.585;UG;0
+Central Division;-0.885;30.252;UG;0
+Mparo Division;1.413;31.397;UG;0
+Northern Division;1.736;33.622;UG;0
+Central Division;-1.250;29.998;UG;0
+Southern Division;2.524;34.655;UG;0
+Western Division;-0.763;29.919;UG;0
+Southern Division;-0.820;29.919;UG;0
+Industrial Division;1.073;34.166;UG;0
+Western Division;0.472;34.085;UG;0
+Kamukuzi Division;-0.605;30.639;UG;0
+Western Division;-0.852;30.264;UG;0
+Northern Division;0.619;33.474;UG;0
+Central Division;1.683;31.717;UG;0
+Kigulya Division;1.683;31.771;UG;0
+Superior Court of the District of Columbia - Criminal Division;38.894;-77.019;US;0
+First Division Monument;38.897;-77.039;US;0
+Second Division Memorial;38.893;-77.038;US;0
+Division Point;25.220;-80.419;US;0
+Jackson County Adult Education Division;30.780;-85.239;US;0
+Jacksonville Shipyards Bellinger Division Pier 1 Obstruction Light;30.325;-81.440;US;0
+Division of Forestry Santa Fe Tower;29.846;-82.160;US;0
+Regional Psychiatric Division of Central State Hospital;33.051;-83.222;US;0
+Division Street Park;34.271;-85.199;US;0
+Lexington Veterans Affairs Medical Center Leestown Division;38.074;-84.538;US;0
+Lexington Veterans Affairs Medical Center Cooper Division;38.029;-84.507;US;0
+Division 'B' Office Heliport;29.587;-90.738;US;0
+Division of Saint John Historic District;30.476;-90.095;US;0
+Saint Louis Veterans Affairs Medical Center - Jefferson Barracks Division;38.509;-90.289;US;0
+Division Street Baptist Church;30.403;-88.885;US;0
+Division Street Community Center;30.402;-88.882;US;0
+North Carolina Division of Prisons;35.019;-78.346;US;0
+Atlantic City Medical Center - Mainland Division Heliport;39.479;-74.539;US;0
+Division Creek;39.348;-75.323;US;0
+Thirty-Fifth Division Park;34.613;-98.397;US;0
+Division Ridge;39.735;-79.476;US;0
+City of Memphis Division of Fire Station 1;35.153;-90.046;US;0
+36th Division Memorial Park;31.677;-98.991;US;0
+Division Lake;29.339;-95.422;US;0
+Division Lake Levee;29.340;-95.419;US;0
+Division Park;29.380;-98.510;US;0
+Division Windmill;26.785;-98.851;US;0
+First Calvary Division Museum;31.139;-97.774;US;0
+Fourth Infantry Division Museum;31.137;-97.749;US;0
+H and TC Railroad Division Yard Shop;32.338;-96.637;US;0
+Second Division Hill;29.645;-98.585;US;0
+7th Division State Police Headquarters Heliport;38.825;-77.284;US;0
+Division Street Pentecostal Holiness Church;36.728;-76.571;US;0
+Division Five Heliport;36.796;-76.238;US;0
+State Police Division Six Heliport;37.278;-80.128;US;0
+State Police Division Three Heliport;37.360;-78.869;US;0
+Virginia Division Game and Inland Fisheries Shop;37.411;-80.588;US;0
+Virginia State Police First Division Headquarters;37.653;-77.460;US;0
+Charleston Area Medical Center-General Division;38.349;-81.628;US;0
+Martinsburg High School Vocational Division;39.453;-77.965;US;0
+West Virginia Archives and History Division Library;38.338;-81.610;US;0
+Otis Helistop Division of UTC Heliport;41.708;-72.802;US;0
+Science Division Annex;41.621;-93.607;US;0
+Division Street Junior High School;41.513;-87.664;US;0
+Division Street Russian and Turkish Baths;41.903;-87.676;US;0
+North Division High School;42.060;-87.754;US;0
+South Division High School (historical);41.845;-87.626;US;0
+Walton College Division Industrial Engineering College;41.887;-87.625;US;0
+Veterans Affairs Boston Healthcare System Brockton Division;42.063;-71.054;US;0
+Mallary Hall Division of Nursing;42.112;-72.558;US;0
+Second Division Brook;42.452;-71.409;US;0
+Veterans Affairs Boston Healthcare System Jamaica Plain Division;42.327;-71.110;US;0
+Aroostook Medical Center - Community General Division;46.773;-67.838;US;0
+Division Point;43.746;-70.128;US;0
+MaineGeneral Medical Center Thayer Division;44.565;-69.646;US;0
+Dow Division Heliport;43.592;-84.224;US;0
+Division Creek;43.758;-95.265;US;0
+Division Place Fashion Center;45.553;-94.193;US;0
+Farmland Grain Division Elevator;40.832;-96.686;US;0
+Norfolk Fire Division Station 1 Headquarters;42.034;-97.417;US;0
+Norfolk Police Division;42.034;-97.417;US;0
+HQ 78 Division Heliport;40.525;-74.425;US;0
+Northwest Gas Division Elizabethtown Gas Heliport;40.721;-74.972;US;0
+Beth Israel Medical Center - Kings Highway Division;40.618;-73.943;US;0
+Beth Israel Medical Center - Singer Division;40.776;-73.944;US;0
+Bronx - Lebanon Hospital Center Fulton Division;40.832;-73.904;US;0
+Division Avenue High School;40.729;-73.525;US;0
+Division Pond;40.885;-72.566;US;0
+Division Street Elementary School;43.082;-73.797;US;0
+Fortysecond Division Armory (historical);40.738;-73.998;US;0
+Eastern Niagara Hospital - Lockport Division;43.177;-78.671;US;0
+Menorah Home and Hospital Bushwick Avenue Division;40.694;-73.926;US;0
+Montefiore Medical Center West Campus Moses Division Hospital;40.880;-73.880;US;0
+New York Presbyterian Hospital - Westchester Division;41.028;-73.754;US;0
+Tiffin Fire and Rescue Division Station 1;41.115;-83.178;US;0
+Wooster Fire Division Station 1;40.803;-81.942;US;0
+City of Newark Division of Fire and Emergency Medical Services Station 2;40.085;-82.410;US;0
+Tiffin Fire and Rescue Division Station 2;41.129;-83.179;US;0
+City of Newark Division of Fire and Emergency Medical Services Station 3;40.043;-82.467;US;0
+Pennsylvania Game Commission Division Office;41.191;-77.232;US;0
+Twenty-Eighth Division Memorial Shrine;40.781;-77.794;US;0
+Division Street Bridge;41.873;-71.385;US;0
+Rhode Island Department of Economic Development Research Division Library;41.820;-71.418;US;0
+Indian Hill Division;43.571;-96.622;US;0
+Vermont College Division of Norwich University Gary Memorial Library;44.256;-72.568;US;0
+Division Street Methodist Episcopal Church (historical);43.779;-88.445;US;0
+Division Street Park;42.919;-89.220;US;0
+South Division High School;43.014;-87.930;US;0
+Water Division School (historical);44.488;-87.816;US;0
+City of Torrington Street Division Garage;41.794;-73.115;US;0
+Division Spring;33.713;-110.682;US;0
+Division Tank;34.202;-109.760;US;0
+Division Tank;34.020;-109.346;US;0
+Division Tank;34.209;-109.757;US;0
+Division Tank;31.724;-109.347;US;0
+Division Tank;33.331;-109.461;US;0
+Division Tank;33.942;-111.992;US;0
+Division Tank;34.760;-111.845;US;0
+Division Well;34.618;-112.609;US;0
+Arnold California Division of Forestry Fire Station;38.235;-120.360;US;0
+California Division of Forestry;36.579;-121.914;US;0
+California Division of Forestry;36.855;-121.404;US;0
+California Division of Forestry;37.109;-121.638;US;0
+California Division of Forestry;37.834;-120.502;US;0
+California Division of Forestry Station;39.185;-122.435;US;0
+California Division of Mines and Geology Library;38.579;-121.494;US;0
+Columbia California Division of Forestry Air Attack Base;38.037;-120.410;US;0
+Division Creek;36.940;-118.298;US;0
+Division Creek;39.671;-123.344;US;0
+Division Creek Ditch;36.942;-118.235;US;0
+Division Knoll;36.375;-121.902;US;0
+Division Lake;37.060;-118.753;US;0
+Division Two Library California State Court of Appeals;34.109;-117.290;US;0
+Division Creek Powerhouse;36.939;-118.283;US;0
+Garden Valley California Division of Forestry Station;38.850;-120.861;US;0
+Groveland California Division of Forestry Station;37.835;-120.239;US;0
+Sacramento City College Learning Resources Division Library;38.541;-121.491;US;0
+Sacramento County Sheriff - Administrative Division;38.585;-121.496;US;0
+Sacramento County Sheriff - South Division Stationhouse;38.423;-121.355;US;0
+Skull Creek California Division Forestry Fire Station;38.240;-120.208;US;0
+State Division of Forestry;36.329;-119.666;US;0
+State Nursery Division of Forestry;38.555;-121.677;US;0
+Strawberry Forestry Division Fire Station;38.199;-120.009;US;0
+Temecal Division Ranch;34.435;-118.760;US;0
+United States Geological Survey Camp - Oil and Gas Division;35.157;-119.484;US;0
+Valley Springs California Division of Forestry Station;38.174;-120.804;US;0
+West Point California Division of Forestry Station;38.404;-120.527;US;0
+Wilbur Springs Station California Division (historical);39.012;-122.357;US;0
+Allied Dirt Division Green Mountain Pit;39.720;-105.164;US;0
+Broomfield Police Department Detention Division;39.908;-105.148;US;0
+Carl Sammons Division Dam;37.353;-103.277;US;0
+Carl Sammons Division Reservoir;37.353;-103.277;US;0
+Division Windmill;37.885;-104.299;US;0
+Division F Water Well;35.976;-107.433;US;0
+Division Tank;34.138;-108.542;US;0
+Division Tank;35.467;-103.574;US;0
+Division Tank;35.360;-105.603;US;0
+Division Lake;39.601;-118.431;US;0
+Glenbrook Nevada Division of Forestry;39.086;-119.941;US;0
+Division Lake;35.266;-102.285;US;0
+Division Pens Spring;35.384;-102.174;US;0
+Division Tank;32.697;-101.369;US;0
+Division Tank;31.752;-104.591;US;0
+Division Tank;31.418;-104.202;US;0
+Division Tank;31.692;-104.674;US;0
+Division Tank;31.441;-104.431;US;0
+Division Tank;31.442;-103.786;US;0
+Division Tank;31.536;-103.319;US;0
+Division Well;31.737;-102.426;US;0
+Division Well;35.355;-103.015;US;0
+Division Well;30.801;-102.952;US;0
+Division Well;31.262;-103.692;US;0
+Division Well;31.528;-103.315;US;0
+Division Windmill;31.387;-104.160;US;0
+Division Windmill;31.699;-104.391;US;0
+Division Windmill;35.580;-102.845;US;0
+Division Windmill;31.581;-103.727;US;0
+Division Windmill;31.664;-103.166;US;0
+Lindsay Division Colonia;31.369;-103.537;US;0
+Manti-La Sal National Forest - La Sal Division;37.875;-109.500;US;0
+Manti-La Sal National Forest - Manti Division;39.425;-111.176;US;0
+Wasatch National Forest-Vernon Division;40.000;-112.434;US;0
+Division D Stock Trail;44.460;-116.192;US;0
+CCC Indian Division Number 1 Dam;47.728;-107.841;US;0
+CCC Indian Division Number 5 Dam;48.388;-105.129;US;0
+Custer National Forest - Ashland Division;45.491;-106.060;US;0
+Custer National Forest - Beartooth Division;45.093;-109.340;US;0
+Custer National Forest - Sioux Division;45.647;-104.058;US;0
+Division Spring;45.653;-104.205;US;0
+Division of Technology, Montana Tech of the University of Montana;45.938;-112.509;US;0
+Lewis and Clark National Forest - Jefferson Division;46.917;-110.634;US;0
+Lewis and Clark National Forest - Rocky Mountain Division;47.933;-112.834;US;0
+Montana Water Resources Division Building;46.589;-112.016;US;0
+University of Nebraska Medical Center College of Nursing - West Nebraska Division;41.890;-103.678;US;0
+Division Canyon;41.547;-114.387;US;0
+Division Range;41.117;-119.329;US;0
+Division Peak;41.103;-119.327;US;0
+Division Canyon;42.588;-119.608;US;0
+Division Gulch;45.470;-117.651;US;0
+Division Fence Reservoir;42.580;-117.127;US;0
+Division Reservoir;43.562;-120.731;US;0
+Division Reservoir;42.462;-117.303;US;0
+Division Spring;44.459;-120.118;US;0
+Division Waterhole;43.965;-120.122;US;0
+Division Reservoir;44.212;-119.634;US;0
+Gerber Lower Division Reservoir;42.083;-121.041;US;0
+Western Division Service Center Airport;45.454;-123.155;US;0
+Division Lake;41.617;-112.291;US;0
+Sawtooth National Forest - Raft River Division;41.917;-113.418;US;0
+Division Four Canal;46.153;-119.117;US;0
+Division Rock;46.904;-121.848;US;0
+Division Spring;48.764;-119.209;US;0
+Ninety-first Division Prairie;47.014;-122.608;US;0
+Thirteenth Division Prairie;47.021;-122.465;US;0
+Division Point;57.718;-136.172;US;0
+Fourth Marine Division Memorial Park;20.891;-156.316;US;0
+Division Creek;62.934;-149.701;US;0
+Division Island;59.422;-150.694;US;0
+Division Point;60.491;-148.273;US;0
+Arkansas State Hospital - Psychiatric Division;34.749;-92.323;US;0
+Bronx - Lebanon Hospital Center Concourse Division;40.844;-73.911;US;0
+SCE Northwestern Division Heliport;34.287;-119.171;US;0
+SCE Southeastern Division Heliport;33.731;-117.847;US;0
+SCE Eastern Division Heliport;34.106;-117.352;US;0
+SCE Northern Division Heliport;34.288;-119.169;US;0
+Automotive Division Brooklyn Adult Training Center;40.678;-73.945;US;0
+Middletown Division of Fire Station 2;39.500;-84.335;US;0
+Middletown Division of Fire Station 1;39.518;-84.400;US;0
+Middletown Division of Fire Station 4;39.527;-84.380;US;0
+Middletown Division of Fire Station 5;39.511;-84.355;US;0
+Calvert County Fire/Rescue/Emergency Medical Services Division;38.909;-76.976;US;0
+Harford County Division of Emergency Operations;39.581;-76.347;US;0
+Fire Department New York Ladder 20 Division 1Rescue Squad 6;40.723;-73.996;US;0
+Fire Department New York Ladder 25 Division 3;40.782;-73.980;US;0
+Fire Department New York Engine 24 Ladder 5 Division 1;40.728;-74.003;US;0
+Little Falls Division of Fire Company 3;40.885;-74.246;US;0
+Appellate Division New York State Supreme Court;40.742;-73.987;US;0
+Fire Department New York Engine 207 Ladder 110 Battalion 31 Division 11;40.696;-73.983;US;0
+Fire Department New York Engine 270 Division 13;40.695;-73.826;US;0
+Fire Department New York Engine 324 Satellite 4 Division 14;40.738;-73.852;US;0
+Fire Department New York Engine 160 Rescue Company 5 Division 8;40.607;-74.089;US;0
+Virginia State Police Division 7;38.640;-77.445;US;0
+Virginia State Police Division 7 Western District Station;38.753;-77.479;US;0
+Fire Department New York Engine 71 Ladder 55 Division 6;40.820;-73.916;US;0
+Fire Department New York Engine 48 Ladder 56 Division 7;40.859;-73.894;US;0
+UNM-MHC Partial Hospital Division Library;35.084;-106.651;US;0
+United States Geological Survey Water Resources Division Library;35.084;-106.651;US;0
+UNM/MHC Partial Hospital Division;35.084;-106.651;US;0
+Arkansas State Police Criminal Investigations Division Company B;34.213;-91.978;US;0
+Arkansas Forestry Commission Law Enforcement Division;34.725;-92.317;US;0
+Internal Revenue Service Criminal Investigation Division Little Rock;34.745;-92.279;US;0
+Federal Bureau of Investigation Little Rock Field Division;34.742;-92.395;US;0
+Benton County Sheriff's Office - Bella Vista Division;36.458;-94.279;US;0
+Adelphi College Suffolk Division;40.738;-73.086;US;0
+Edgecombe Criminal Division;35.897;-77.533;US;0
+Alcohol Law Enforcement Division;36.304;-76.996;US;0
+Wayne County Sheriff Civil Division;35.381;-77.996;US;0
+Dare County Sheriff Civil Division;36.046;-75.680;US;0
+Criminal Division;35.725;-77.910;US;0
+City of Miami Department of Fire Rescue Support Services Division;25.781;-80.214;US;0
+Susquehanna Hose Company Division 3;39.545;-76.088;US;0
+Susquehanna Hose Company Division 5;39.552;-76.119;US;0
+Susquehanna Hose Company Division 4;39.543;-76.100;US;0
+Susquehanna Hose Company Division 2;39.549;-76.091;US;0
+Susquehanna Hose Company Division 1;39.551;-76.097;US;0
+Mobile Fire Training Division;30.671;-88.064;US;0
+Ormond Beach Fire Department Administration Division;29.285;-81.056;US;0
+Volusia County Sheriff's Office - Civil Division;29.215;-81.021;US;0
+Orange County Criminal Division;28.548;-81.378;US;0
+Baltimore County Police Training Division;39.264;-76.515;US;0
+Montgomery County Police Department Special Operations Division;39.118;-77.187;US;0
+Anne Arundel County Police Department Criminal Investigations Division;39.026;-76.607;US;0
+Hampton City Division of Fire and Rescue Administration;37.029;-76.343;US;0
+Virginia Beach Fire Department Operations Division;36.751;-76.055;US;0
+Petersburg Fire Logistics Division;37.226;-77.407;US;0
+Dinwiddie County Division of Fire / Emergency Medical Services;37.080;-77.586;US;0
+Petersburg Fire Training Division;37.196;-77.335;US;0
+Henrico County Division of Fire Administration;37.630;-77.528;US;0
+Hampton City Police Division;37.028;-76.345;US;0
+Norfolk Police Second Patrol Division;36.880;-76.212;US;0
+Loudoun County Sheriff's Office Corrections and Court Services Division;39.076;-77.549;US;0
+Fairfax County Sheriff's Office Administrative Services Division;38.847;-77.307;US;0
+Norfolk Criminal Division Circuit Court;36.845;-76.288;US;0
+Hopewell Police Services Division;37.302;-77.287;US;0
+Virginia State Police Division 1 Area 44 Office;38.051;-77.346;US;0
+Petersburg Police Department Investigation Division;37.232;-77.400;US;0
+Richmond Police Department Training Division;37.564;-77.450;US;0
+Virginia State Police Division 5 Area 37 Office;37.319;-76.696;US;0
+Fairfax County Sheriff's Office Court Services Division;38.843;-77.308;US;0
+Norfolk Police Third Patrol Division;36.858;-76.272;US;0
+Fredericksburg Police Narcotic Division;38.299;-77.458;US;0
+Fredericksburg Police Detective Division;38.300;-77.457;US;0
+Virginia State Police Division 5 Area 33 Office;37.416;-76.547;US;0
+Fredericksburg Police Patrol Division;38.300;-77.458;US;0
+Virginia State Police Division 1 Area 2 Office;37.981;-76.737;US;0
+Norfolk Police First Patrol Division;36.854;-76.238;US;0
+Fairfax County Sheriff's Office Confinement and Support Services Division;38.843;-77.310;US;0
+Virginia State Police Division 7 Headquarters and Area 9 Office;38.825;-77.283;US;0
+Virginia State Police Division 7 Area 10 Office;39.076;-77.552;US;0
+Virginia State Police Division 7 Area 45 Office;38.867;-77.069;US;0
+Virginia State Police Division 7 Area 48 Office;38.768;-77.182;US;0
+Virginia State Police Division 1 Area 1 Office;37.691;-77.453;US;0
+Virginia State Police Division 1 Area 3 Office;37.592;-76.859;US;0
+Virginia State Police Division 1 Area 4 Office;37.807;-77.864;US;0
+Virginia State Police Division 1 Area 6 Office;37.511;-77.776;US;0
+Virginia State Police Division 1 Area 7 Office;37.197;-77.461;US;0
+Virginia State Police Division 1 Area 8 Office;37.542;-77.385;US;0
+Virginia State Police Division 2 Headquarters;38.494;-77.927;US;0
+Virginia State Police Division 2 Area 5 Office;38.266;-77.495;US;0
+Virginia State Police Division 2 Area 12 Office;38.699;-77.788;US;0
+Virginia State Police Division 2 Area 15 Office;38.494;-77.927;US;0
+Virginia State Police Division 5 Headquarters;36.796;-76.238;US;0
+Virginia State Police Division 5 Area 31 Office;37.666;-75.732;US;0
+Virginia State Police Division 5 Area 32 Office;36.848;-76.190;US;0
+Virginia State Police Division 5 Area 34 Office;36.684;-76.998;US;0
+Virginia State Police Division 5 Area 35 Office;36.739;-77.509;US;0
+Virginia State Police Division 5 Area 36 Office;37.039;-77.079;US;0
+Virginia State Police Division 5 Area 46 Office;37.065;-76.399;US;0
+Virginia State Police Division 5 Area 47 Office;36.772;-76.260;US;0
+New Orleans Fire Department Communications Division;29.985;-90.109;US;0
+New Orleans Fire Department Training Division;30.019;-89.929;US;0
+Gulfport Police Department Narcotics Division;30.383;-89.092;US;0
+Marion County Sheriff's Office - Civil Division;29.188;-82.139;US;0
+Monroe County Sheriff's Office Civil Division;24.555;-81.804;US;0
+Highlands County Criminal Court Division;27.491;-81.436;US;0
+Polk County Sheriff's Office Human Resources Division;27.905;-81.839;US;0
+Monroe County Sheriff's Office Aviation Division;24.581;-81.745;US;0
+Monroe County Sheriff's Office Communications Division;24.710;-81.098;US;0
+Hillsborough County Sheriff's Office Training Division;27.964;-82.336;US;0
+Hillsborough County Sheriff's Office Jail Division II;27.956;-82.336;US;0
+Hillsborough County Sheriff's Office Jail Division III;27.956;-82.458;US;0
+Hillsborough County Sheriff's Office Jail Division I;27.958;-82.373;US;0
+Lee County Sheriff's Office Core Division;26.634;-81.810;US;0
+District of Columbia Fire and Emergency Medical Services - Fire Prevention Division;38.895;-77.016;US;0
+Saint Mary Parish Sheriff's Office - Narcotics Division;29.690;-91.272;US;0
+Jefferson Davis Parish Sheriff's Office - Narcotics Division;30.234;-92.652;US;0
+New Orleans Police Department - Public Integrity Division;29.964;-90.084;US;0
+Saint James Parish Sheriff's Office - Juvenile Division;29.994;-90.817;US;0
+New Orleans Police Department - Gaming Division;29.948;-90.066;US;0
+Saint John Parish Sheriff's Office - Uniform Patrol Division;30.072;-90.506;US;0
+Houston Fire Department Arson Division;29.791;-95.431;US;0
+McAllen Animal Control Division;26.197;-98.235;US;0
+Beaufort County Emergency Management Division;32.436;-80.686;US;0
+Myrtle Beach Police Department - Administrative Division;33.670;-78.935;US;0
+South Carolina Law Enforcement Division;34.179;-79.401;US;0
+Georgetown County Emergency Management Division;33.381;-79.301;US;0
+Florence Police Department Patrol Division North Region Headquarters;34.207;-79.768;US;0
+Florence Police Department Patrol Division South Region Headquarters;34.159;-79.767;US;0
+South Carolina Law Enforcement Division;33.306;-79.967;US;0
+Academic Research Division Library Middlesex Community College;42.524;-71.276;US;0
+Atlanta Fire / Rescue Station 32 Airport Division;33.645;-84.442;US;0
+Atlanta Fire / Rescue Station 35 Airport Division;33.639;-84.407;US;0
+Atlanta Fire / Rescue Station 40 Airport Division;33.629;-84.431;US;0
+Denver County Court Civil Division;39.739;-104.991;US;0
+Columbus Division of Fire Station 1 and 9 Union Station Engine House;39.969;-82.997;US;0
+Columbus Division of Fire Station 2 and 3 Nance / Hoster Fire Station;39.954;-82.995;US;0
+Columbus Division of Fire Station 4 Berwick Fire Station;39.912;-82.908;US;0
+Columbus Division of Fire Station 5 Olde Orchard Fire Station;39.976;-82.837;US;0
+Columbus Division of Fire Station 6 Sharon Woods Fire Station;40.088;-82.960;US;0
+Columbus Division of Fire Station 7 Buckeye Fire Station;39.992;-83.004;US;0
+Columbus Division of Fire Station 8 Herman Harrison Fire Station;39.969;-82.968;US;0
+Columbus Division of Fire Station 10 Franklinton Engine House;39.959;-83.030;US;0
+Columbus Division of Fire Station 11 Don Scott Fire Station;40.073;-83.076;US;0
+Columbus Division of Fire Station 12 Lieutenant Frank D Grashel Fire Station;39.944;-83.084;US;0
+Columbus Division of Fire Station 13 Olde North Columbus Fire Station;40.017;-83.004;US;0
+Columbus Division of Fire Station 14 North Graceland Engine House;39.933;-82.984;US;0
+Columbus Division of Fire Station 15 Driving Park Fire Station;39.949;-82.950;US;0
+Columbus Division of Fire Station 16 Mock Orchard Fire Station;40.024;-82.982;US;0
+Columbus Division of Fire Station 17 Hilltop Engine House;39.956;-83.061;US;0
+Columbus Division of Fire Station 18 Herbert F Turner / South Linden Fire Station;39.997;-82.978;US;0
+Columbus Division of Fire Station 19 Kuhn / Northmoor Engine House;40.036;-83.017;US;0
+Columbus Division of Fire Station 20 Higgenbotham Fire Station;39.986;-82.933;US;0
+Columbus Division of Fire Station 21 Eastmoor Fire Station;39.957;-82.910;US;0
+Columbus Division of Fire Station 22 Lieutenant Jack Russ / Southgate Fire Station;39.901;-82.987;US;0
+Columbus Division of Fire Station 23 Big Walnut Fire Station;39.944;-82.877;US;0
+Columbus Division of Fire Station 24 Northland Area Fire Station;40.060;-82.977;US;0
+Columbus Division of Fire Station 25 Henry Hank Gowdy Fire Station;39.984;-83.025;US;0
+Columbus Division of Fire Station 26 Hoffman Farms Fire Station;39.973;-83.148;US;0
+Columbus Division of Fire Station 27 Great Northwest Fire Station;40.111;-83.065;US;0
+Columbus Division of Fire Station 28 Steltzer Ridge Fire Station;40.034;-82.909;US;0
+Columbus Division of Fire Station 29 Little Turtle Fire Station;40.081;-82.878;US;0
+Columbus Division of Fire Station 30 Wyandotte Fire Station;40.026;-83.113;US;0
+Columbus Division of Fire Station 31 Bolton Field Fire Station;39.911;-83.135;US;0
+Columbus Division of Fire Station 32 Refugee Tract Fire Station;39.907;-82.825;US;0
+Columbus Division of Fire Station 33 County Line Fire Station;40.136;-82.996;US;0
+Denver Police Department Bicycle Division;39.771;-104.980;US;0
+Boulder County Sheriff's Office Warrants Division;40.034;-105.232;US;0
+Federal Bureau of Investigation Denver Division;39.750;-104.989;US;0
+Denver County Court Civil Division;39.742;-104.988;US;0
+Texas Highway Patrol Division;29.828;-95.334;US;0
+Texas Highway Patrol Division;30.335;-95.456;US;0
+Texas Highway Patrol Division;29.901;-95.598;US;0
+Texas Highway Patrol Division;30.092;-96.059;US;0
+Harris County Sheriff's Office - Family Criminal Law Division;29.766;-95.365;US;0
+Orange County Sheriff's Office - Civil Division;30.089;-93.737;US;0
+Brazoria County Sheriff's Department - Criminal Division;29.168;-95.431;US;0
+Medford Division of Fire Taunton Fire Company;39.855;-74.850;US;0
+Medford Division of Fire Union Fire Company;39.903;-74.825;US;0
+City of Burlington Fire Division Neptune Hose Company 5;40.080;-74.846;US;0
+City of Burlington Fire Division Niagara Hose Company 6;40.070;-74.855;US;0
+City of Burlington Fire Division Mitchell Fire Company 3;40.074;-74.852;US;0
+Hartford Fire Department Training Division;41.788;-72.652;US;0
+City of Memphis Division of Fire Station 38;35.020;-90.069;US;0
+City of Memphis Division of Fire Station 4;35.182;-90.044;US;0
+City of Memphis Division of Fire Station 7;35.142;-90.027;US;0
+Syracuse University Division of International Programs Abroad;43.036;-76.130;US;0
+Albany Police Division Number 2;42.643;-73.758;US;0
+New Orleans Supply Division Fire Station;29.945;-90.069;US;0
+Albany Division 1 Police Station;42.666;-73.791;US;0
+Eastern Louisiana Mental Health System Forensic Division;30.830;-91.153;US;0
+San Bernardino County Community Safety Division Building;34.090;-117.294;US;0
+San Bernardino County Fire Department Hazardous Materials Division Fire Marshal;34.089;-117.295;US;0
+San Bernardino County Hazardous Materials Division Business Office;34.125;-117.407;US;0
+San Bernardino County Office of Emergency Services Hazardous Materials Division Building;34.125;-117.407;US;0
+Hart Division of Little Falls;38.273;-77.415;US;0
+Sunnyside Division;38.332;-77.477;US;0
+School for Arts In Learning Primary Charter School Lower Division;38.904;-77.037;US;0
+School for Arts in Learning Primary Charter School Upper Division;38.900;-77.040;US;0
+Division Crossing Shopping Center;45.506;-122.495;US;0
+Trinity School for Children Lower Division;27.989;-82.483;US;0
+Trinity School for Children Upper Division;27.990;-82.485;US;0
+Thirty-Second Red Arrow Division Historical Marker;44.633;-84.776;US;0
+Kansas Lottery Security Division;39.059;-95.670;US;0
+Kansas Racing and Gaming Commission Security Division;39.050;-95.678;US;0
+Kansas Alcoholic Beverage Control Division;39.048;-95.681;US;0
+Kansas Department of Wildlife and Parks - Fall River - Wildlife Division;37.722;-96.209;US;0
+Dodge City Community College Safety and Security Division;37.777;-100.039;US;0
+Division Tank;34.637;-111.593;US;0
+Emory University Division of Medical Genetics;33.790;-84.303;US;0
+Montana Fish Wildlife and Parks Law Enforcement Division;46.587;-112.015;US;0
+Internal Revenue Service Criminal Investigation Division Billings Office;45.784;-108.509;US;0
+Internal Revenue Service Criminal Investigation Division Missoula Office;46.887;-114.030;US;0
+Springfield Fire and Rescue Division Station 8;39.919;-83.825;US;0
+Springfield Fire and Rescue Division Station 7;39.953;-83.800;US;0
+Brunswick Division of Fire Station 2;41.261;-81.808;US;0
+City of Norton Fire Division Station 2;41.004;-81.670;US;0
+Wooster Fire Division Station 2;40.828;-81.935;US;0
+City of Newark Division of Fire and Emergency Medical Services Station 4;40.062;-82.356;US;0
+City of Newark Division of Fire and Emergency Medical Services Station 1 Headquarters;40.055;-82.404;US;0
+Bowling Green Division of Fire Station 2;41.372;-83.670;US;0
+Westerville Division of Fire Station 113;40.135;-82.903;US;0
+Springfield Fire and Rescue Division Station 6;39.917;-83.784;US;0
+Springfield Fire and Rescue Division Station 5;39.936;-83.837;US;0
+Springfield Fire and Rescue Division Station 4;39.933;-83.785;US;0
+Springfield Fire and Rescue Division Station 3;39.907;-83.793;US;0
+Upper Arlington Fire Division Station 73;40.052;-83.078;US;0
+Upper Arlington Fire Division Station 72;40.035;-83.067;US;0
+Perrysburg Fire Division;41.556;-83.629;US;0
+Bowling Green Division of Fire Station 1;41.376;-83.644;US;0
+Worthington Division of Fire and Emergency Medical Services;40.097;-83.017;US;0
+Mifflin Township Division of Fire Station 131 Headquarters;40.013;-82.865;US;0
+Whitehall Division of Fire;39.968;-82.885;US;0
+Grandview Heights Division of Fire Station 51;39.978;-83.045;US;0
+Middletown Division of Fire Station 3 Headquarters;39.502;-84.386;US;0
+Huron Division of Fire;41.392;-82.557;US;0
+Harlem Township Division of Fire Station 450;40.163;-82.807;US;0
+Miami Township Division of Fire and Emergency Medical Services Station 50;39.628;-84.220;US;0
+Maumee Fire Division Station 1;41.567;-83.657;US;0
+Franklin Division of Fire;39.560;-84.302;US;0
+City of Norton Fire Division Station 1;41.025;-81.642;US;0
+Brunswick Division of Fire Station 1;41.239;-81.844;US;0
+Brooklyn Division of Fire And Ambulance;41.441;-81.743;US;0
+Bedford Division of Fire;41.397;-81.537;US;0
+Springfield Fire and Rescue Division Station 1 Headquarters;39.929;-83.809;US;0
+New Carlisle Fire Division;39.940;-84.026;US;0
+City of Ashland Division of Fire;40.869;-82.312;US;0
+Jerome Township Division of Fire And Emergency Medical Services;40.150;-83.243;US;0
+Westerville Division of Fire Station 112;40.105;-82.901;US;0
+Upper Arlington Fire Division Station 71;39.999;-83.062;US;0
+Eaton Fire Division Station 1;39.747;-84.633;US;0
+Eaton Fire Division Station 2;39.758;-84.641;US;0
+Nelsonville Division of Fire;39.458;-82.240;US;0
+Urbana Fire Emergency Medical Services Division;40.107;-83.752;US;0
+Vandalia Fire Division Station 2;39.882;-84.181;US;0
+Mifflin Township Division of Fire Station 132;40.026;-82.947;US;0
+Mifflin Township Division of Fire Station 133;40.045;-82.861;US;0
+Maumee Fire Division Station 2;41.580;-83.677;US;0
+Medcorp Emergency Medical Services Findlay Division;41.045;-83.652;US;0
+Tri - Division Ambulance District;40.670;-81.352;US;0
+Grand Rapids Fire Department Division Street Station;42.932;-85.667;US;0
+Division Street Fellowship;42.959;-85.668;US;0
+Agoura Hills-Malibu Division;34.054;-118.757;US;0
+San Fernando Valley Division;34.251;-118.419;US;0
+East Sonora-Phoenix Lake Division;37.957;-120.314;US;0
+Santa Clara Pueblo Division;35.972;-106.164;US;0
+Camden Northeast Division;34.359;-80.612;US;0
+Flathead Reservation Division;47.845;-114.573;US;0
+Cedar Creek Lake Division;32.220;-96.088;US;0
+Grants Pass Fire and Rescue Operations Division Station 1 Headquarters;42.458;-123.325;US;0
+Grants Pass Fire and Rescue Operations Division Station 2;42.431;-123.317;US;0
+West Virginia Division of Forestry Mason County Field Office;38.959;-82.083;US;0
+West Virginia Division of Forestry Kanawha County Field Office;38.389;-81.716;US;0
+West Virginia Division of Forestry Wood County Field Office;39.233;-81.547;US;0
+West Virginia Division of Forestry Logan County Field Office;37.897;-82.001;US;0
+West Virginia Division of Forestry Boone County Field Office;38.079;-81.832;US;0
+West Virginia Division of Forestry Fayette County Field Office;38.053;-81.103;US;0
+West Virginia Division of Forestry Upshur County Field Office;38.857;-80.313;US;0
+West Virginia Division of Forestry Pocahontas County Field Office;38.223;-80.094;US;0
+West Virginia Division of Forestry Roane - Clay County Field Office;38.570;-81.135;US;0
+West Virginia Division of Forestry Hardy County Field Office;39.044;-78.981;US;0
+West Virginia Division of Forestry Romney Field Office;39.349;-78.755;US;0
+West Virginia Division of Forestry Preston County Field Office;39.469;-79.669;US;0
+West Virginia Division of Forestry Marion County Field Office;39.493;-80.172;US;0
+West Virginia Division of Forestry Braxton County Field Office;38.659;-80.769;US;0
+West Virginia Division of Forestry Berkeley County Field Office;39.361;-78.043;US;0
+West Virginia Division of Forestry Ritchie County Field Office;39.209;-81.052;US;0
+West Virginia Division of Forestry Mineral County Field Office;39.432;-78.986;US;0
+West Virginia Division of Forestry Barbour County Field Office;39.152;-80.041;US;0
+Rescue Incorporated Division 2;43.048;-72.668;US;0
+Rescue Incorporated Division 1;42.838;-72.566;US;0
+Norfolk Fire Division Station 2;42.048;-97.455;US;0
+Charlotte-Mecklenburg Police Department Steele Creek Division;35.165;-80.919;US;0
+Nevada Division of Forestry Western Area Station;39.187;-119.789;US;0
+Nevada Division of Forestry Western Region 1 Headquarters;39.312;-119.790;US;0
+Nevada Division of Forestry Southern Area Region Office Lincoln County Fire Protection Office;37.956;-114.419;US;0
+Harrison County Library System Division Street Study Center;30.403;-88.882;US;0
+Division Street Bridge;43.067;-77.229;US;0
+Osceola County Ambulance Service Ashton Division;43.312;-95.792;US;0
+Osceola County Ambulance Service Ocheyedan Division;43.416;-95.534;US;0
+Osceola County Ambulance Service Sibley Division;43.405;-95.751;US;0
+Osceola County Ambulance Service Melvin Division;43.287;-95.608;US;0
+State of Georgia Forestry Commission Greene County Forestry Division;33.581;-83.071;US;0
+King County District Court Southwest Division;47.469;-122.342;US;0
+King County District Court East Division;47.554;-122.048;US;0
+King County District Court South Division;47.369;-122.229;US;0
+King County District Court West Division;47.761;-122.334;US;0
+Little Falls Division of Fire Company 1;40.878;-74.223;US;0
+Plainfield Fire Division;40.615;-74.423;US;0
+Little Falls Division of Fire Company 4;40.873;-74.207;US;0
+Edison Division of Fire Station 5;40.576;-74.378;US;0
+Edison Division of Fire Station 6;40.558;-74.342;US;0
+Edison Division of Fire Station 4;40.584;-74.356;US;0
+Edison Division of Fire Station 3;40.532;-74.329;US;0
+Edison Division of Fire Station 2;40.522;-74.394;US;0
+Edison Division of Fire Station 1;40.502;-74.398;US;0
+New Jersey Forest Fire Service North Division;40.999;-74.746;US;0
+Tacoma Fire Department Training Division;47.253;-122.399;US;0
+Westland Fire Prevention Division;42.317;-83.407;US;0
+Sikeston Department of Public Safety Fire Division Station 1;36.879;-89.600;US;0
+Sikeston Department of Public Safety Fire Division Station 2;36.883;-89.580;US;0
+Sikeston Department of Public Safety Fire Division Station 3;36.877;-89.553;US;0
+Stockton Fire Department Training Division;37.948;-121.292;US;0
+Rohnert Park Department of Public Safety Fire Division Station 1 Headquarters;38.349;-122.703;US;0
+Stockton Fire Department Administrative Division;37.957;-121.292;US;0
+Sacramento Metropolitan Fire District Training Division;38.651;-121.407;US;0
+Rohnert Park Department of Public Safety Fire Division Station 4;38.335;-122.684;US;0
+Rohnert Park Department of Public Safety Fire Division Station 2;38.361;-122.693;US;0
+Rohnert Park Department of Public Safety Fire Division Station 3;38.337;-122.703;US;0
+Richmond Fire Department Training Division;37.925;-122.336;US;0
+Sacramento City Fire Department Division of Training;38.651;-121.407;US;0
+Twain Harte Community Services District Fire and Rescue Division;38.039;-120.230;US;0
+Naval Surface Warfare Center Crane Division Fire Department;38.891;-86.887;US;0
+United States Steel Midwest Division Fire Department;41.627;-87.173;US;0
+Indiana Department of Natural Resources - Division of Forestry Fire Control Headquarters;39.323;-86.425;US;0
+Michigan Department of Natural Resources Forest Mineral And Fire Management Division;44.462;-84.602;US;0
+Unified Fire Authority Fire Training Center and Wildland Division;40.686;-112.083;US;0
+Taliaferro's Division Monument;35.252;-78.681;US;0
+Kentucky Division of Forestry Bluegrass District;38.165;-84.821;US;0
+Kentucky Division of Forestry Central District;37.714;-85.824;US;0
+Kentucky Division of Forestry Eastern District;37.553;-82.631;US;0
+Kentucky Division of Forestry Green River District;37.339;-87.491;US;0
+Kentucky Division of Forestry Kentucky River District;37.240;-83.181;US;0
+Kentucky Division of Forestry Northeastern District;38.203;-83.416;US;0
+Kentucky Division of Forestry South Central District;37.322;-85.354;US;0
+Kentucky Division of Forestry Southeastern District;36.743;-83.693;US;0
+Kentucky Division of Forestry Western District;36.738;-88.639;US;0
+Springfield Fire Training Division;39.793;-89.609;US;0
+Alaska Division of Forestry Soldotna;60.498;-151.015;US;0
+Sand Point Department of Public Safety Fire Division;55.342;-160.494;US;0
+Alaska Division of Forestry Delta Area Office;64.054;-145.736;US;0
+Alaska Division of Forestry Northern Region Tok Area Office;63.331;-142.991;US;0
+Alaska Division of Forestry Northern Region Fairbanks Area Office;64.837;-147.817;US;0
+Alaska Division of Forestry State Fire Warehouse;64.837;-147.817;US;0
+Saint Paul Department of Public Safety Fire Division;57.125;-170.285;US;0
+Alaska Division of Forestry Northern Region Valdez - Copper River Area Office;62.042;-145.435;US;0
+Jacksonville Fire Training Division;30.300;-81.509;US;0
+Marklesburg Volunteer Fire Company 3 Ambulance Division;40.385;-78.171;US;0
+Pennsylvania Department of Environmental Services Hyner Run Maintenance Division;41.358;-77.629;US;0
+Division of Forestry Parsons District;35.646;-88.075;US;0
+City of Memphis Division of Fire Station 16;35.109;-89.990;US;0
+Tennessee Department of Agriculture Division of Forestry Natchez Trace;35.767;-88.277;US;0
+Tennessee Department of Agriculture Division of Forestry Ripley Fire Tower;35.850;-89.518;US;0
+City of Memphis Division of Fire Station 59;35.203;-89.764;US;0
+City of Memphis Division of Fire Station 58;35.173;-89.783;US;0
+City of Memphis Division of Fire Station 56;35.193;-89.813;US;0
+City of Memphis Division of Fire Station 55;35.023;-89.830;US;0
+City of Memphis Division of Fire Station 54;35.141;-89.770;US;0
+City of Memphis Division of Fire Station 53;35.034;-89.868;US;0
+City of Memphis Division of Fire Station 52;35.049;-89.841;US;0
+City of Memphis Division of Fire Station 51;35.167;-89.865;US;0
+City of Memphis Division of Fire Station 50;35.037;-89.922;US;0
+City of Memphis Division of Fire Station 49;35.245;-89.947;US;0
+City of Memphis Division of Fire Station 48;35.194;-89.897;US;0
+City of Memphis Division of Fire Station 47;35.221;-89.917;US;0
+City of Memphis Division of Fire Station 46;35.204;-89.950;US;0
+City of Memphis Division of Fire Station 45;35.007;-90.103;US;0
+City of Memphis Division of Fire Station 44;35.134;-89.862;US;0
+City of Memphis Division of Fire Station 43;35.006;-90.022;US;0
+City of Memphis Division of Fire Station 42;35.060;-90.010;US;0
+City of Memphis Division of Fire Station 41;35.088;-89.859;US;0
+City of Memphis Division of Fire Station 40;35.021;-89.989;US;0
+City of Memphis Division of Fire Station 39;35.035;-90.030;US;0
+City of Memphis Division of Fire Station 37;35.041;-90.096;US;0
+City of Memphis Division of Fire Station 36;35.061;-90.060;US;0
+City of Memphis Division of Fire Station 35;35.058;-89.887;US;0
+City of Memphis Division of Fire Station 34;35.065;-89.933;US;0
+City of Memphis Division of Fire Station 32;35.098;-90.108;US;0
+City of Memphis Division of Fire Station 31;35.242;-89.993;US;0
+City of Memphis Division of Fire Station 30;35.100;-89.930;US;0
+City of Memphis Division of Fire Station 29;35.087;-90.019;US;0
+City of Memphis Division of Fire Station 28;35.173;-90.007;US;0
+City of Memphis Division of Fire Station 27;35.209;-89.979;US;0
+City of Memphis Division of Fire Station 26;35.217;-90.029;US;0
+City of Memphis Division of Fire Station 25;35.085;-89.904;US;0
+City of Memphis Division of Fire Station 24;35.155;-89.912;US;0
+City of Memphis Division of Fire Station 23;35.171;-89.945;US;0
+City of Memphis Division of Fire Station 22;35.095;-89.969;US;0
+City of Memphis Division of Fire Station 21;35.116;-89.895;US;0
+City of Memphis Division of Fire Station 20;35.092;-90.044;US;0
+City of Memphis Division of Fire Station 19;35.175;-89.982;US;0
+City of Memphis Division of Fire Station 18;35.115;-89.948;US;0
+City of Memphis Division Fire Station 17;35.149;-89.948;US;0
+City of Memphis Division of Fire Station 14;35.116;-90.030;US;0
+City of Memphis Division of Fire Station 13;35.145;-89.983;US;0
+City of Memphis Division of Fire Station 11;35.136;-90.001;US;0
+City of Memphis Division of Fire Station 10;35.108;-90.067;US;0
+City of Memphis Division of Fire Station 8;35.130;-90.046;US;0
+City of Memphis Division of Fire Station 2;35.134;-90.058;US;0
+Tennessee Department of Agriculture Division of Forestry Erin Fire Tower;36.286;-87.725;US;0
+City of Memphis Division of Fire Station 33;35.052;-89.978;US;0
+Tennessee Department of Agriculture Division of Forestry Weakley County;36.350;-88.760;US;0
+United States Forest Service Tennessee Forestry Division;36.143;-89.383;US;0
+Tennessee Department of Agriculture Division of Forestry Routin;36.225;-88.376;US;0
+Tennessee Department of Agriculture Division of Forestry Hickman Fire Tower;35.809;-87.482;US;0
+Tennessee Department of Agriculture Division of Forestry Union;36.264;-83.795;US;0
+Tennessee Department of Agriculture Division of Forestry Franklin District;35.220;-85.888;US;0
+Tennessee Department of Agriculture Division of Forestry Morgan District;36.070;-84.542;US;0
+Tennessee Department of Agriculture Division of Forestry District 3;35.145;-85.248;US;0
+Tennessee Department of Agriculture Division of Forestry Standing Stone;36.445;-85.445;US;0
+Tennessee Department of Agriculture Division of Forestry Haydenburg Fire Tower;36.428;-85.722;US;0
+Tennessee Department of Agriculture Division of Forestry Blount;35.741;-83.776;US;0
+Tennessee Department of Agriculture Division of Forestry Sullivan;36.498;-82.487;US;0
+Tennessee Department of Agriculture Division of Forestry Campbell County;36.384;-84.122;US;0
+MaineGeneral Medical Center Seton Division;44.549;-69.659;US;0
+New Mexico State Forestry Division Chama District;36.757;-106.559;US;0
+University Hospital Emergency Medical Services Camden Division;39.934;-75.110;US;0
+Ship Bottom Beach Haven Division First Aid Squad;39.643;-74.183;US;0
+Fairfax County Police Department Helicopter Division;38.853;-77.373;US;0
+American Medical Response Santa Cruz Division;36.982;-122.022;US;0
+American Medical Response Santa Cruz Division;37.050;-122.066;US;0
+American Medical Response Santa Cruz Division;36.978;-121.886;US;0
+American Medical Response Alameda County Division;37.707;-122.142;US;0
+American Medical Response Santa Cruz Division;37.126;-122.122;US;0
+American Medical Response Santa Cruz Division;36.920;-121.761;US;0
+Los Angeles Fire Training Division;34.069;-118.242;US;0
+Edwards Air Force Base Fire Protection Division Station 5;34.873;-117.988;US;0
+Edwards Air Force Base Fire Protection Division Station 4;34.873;-117.988;US;0
+Edwards Air Force Base Fire Protection Division Station 3;34.873;-117.988;US;0
+Edwards Air Force Base Fire Protection Division Station 2;34.873;-117.988;US;0
+Edwards Air Force Base Fire Protection Division Station 1;34.873;-117.988;US;0
+Gold Cross Ambulance Eastern Utah Division;40.455;-109.532;US;0
+Los Angeles County Fire Department Lifeguard Division Ambulance;33.983;-118.471;US;0
+San Bernardino Sheriff's Aviation Division Emergency Medical Services Transport;34.125;-117.409;US;0
+Department of Natural Resources Division of Forestry - Backus Forestry Office;46.820;-94.510;US;0
+Minnesota Department of Natural Resources Forestry Division Warroad Area Office;48.912;-95.332;US;0
+Department of Natural Resources Division of Forestry - Cass Lake Ranger Station;47.378;-94.614;US;0
+Minnesota Department of Natural Resources Forestry Division;45.866;-95.388;US;0
+Minnesota Department of Natural Resources Forestry Division Grygla Field Office;48.298;-95.616;US;0
+Minnesota Department of Natural Resources Forestry Division Wannaska Field Office;48.640;-95.736;US;0
+Department of Natural Resources Division of Forestry - Washburn Lake Ranger Station;46.846;-93.944;US;0
+Arizona State Library - Library Development Division and Carnegie Center;33.448;-112.087;US;0
+Arizona State Library Records Management Division;33.446;-112.101;US;0
+Arizona Department of Transportation Motor Vehicle Division;33.447;-112.099;US;0
+First Infantry Division Museum;39.062;-96.782;US;0
+Emergency Medical Services Authority West Division;35.442;-97.522;US;0
+Emergency Medical Services Authority East Division;36.176;-95.980;US;0
+Colorado Division of Wildlife Salida Service Center;38.525;-106.014;US;0
+Fairmont Department of Public Safety Fire Division;34.494;-79.113;US;0
+Knightdale Public Safety Fire Division Station 1;35.802;-78.488;US;0
+South Stokes Volunteer Fire Department Forest Hills Division;36.286;-80.227;US;0
+Knightdale Public Safety Fire Division Station 2;35.789;-78.475;US;0
+Pennsylvania Department of Conservation and Natural Resources District 7 Bold Eagle Division;40.902;-77.213;US;0
+Paratech Ambulance Service Milwaukee Division Station 1;43.135;-87.992;US;0
+Paratech Ambulance Service Milwaukee Division Brown Deer;43.177;-88.027;US;0
+Paratech Ambulance Service Milwaukee Division Ripley;43.032;-88.060;US;0
+Paratech Ambulance Service Milwaukee Division Station 6;43.090;-87.955;US;0
+Waushara County Emergency Medical Services Coloma Plainfield Division;44.042;-89.510;US;0
+Waushara County Emergency Medical Services Poy Sippi Division;44.138;-88.993;US;0
+Waushara County Emergency Medical Services Wautoma Division;44.074;-89.290;US;0
+Paratech Ambulance Service Kenosha Division;42.565;-87.877;US;0
+Ryan Brothers Ambulance Service Fort Atkinson Division;42.912;-88.834;US;0
+Umatilla County Public Health Division Office;45.673;-118.784;US;0
+Oswego Hospital - Alvin L Krakau Community Mental Health Center Division;43.449;-76.489;US;0
+Fire Department New York Engine 283 Division 15;40.661;-73.918;US;0
+West Point Fire and Emergency Services Division;41.396;-73.965;US;0
+Methodist Hospital Division;39.922;-75.170;US;0
+Rst-Luanshya Division;-13.117;28.383;ZM;0
+Mayo Ranch Division;-17.833;32.286;ZW;0

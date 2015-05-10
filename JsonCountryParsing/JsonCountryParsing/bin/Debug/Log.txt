@@ -1,0 +1,661 @@
+08-Aug-14 6:08:19 AM :: http://www.geonames.org/advanced-search.html?q=&country=AF&featureClass=A
+08-Aug-14 6:08:32 AM :: Done Page ::1
+08-Aug-14 6:08:42 AM :: Done Page ::2
+08-Aug-14 6:08:43 AM :: Done Page ::3
+08-Aug-14 6:08:50 AM :: Done Page ::4
+08-Aug-14 6:08:50 AM :: Done Page ::5
+08-Aug-14 6:08:55 AM :: Done Page ::6
+08-Aug-14 6:09:10 AM :: Done Page ::7
+08-Aug-14 6:09:17 AM :: Done Page ::8
+08-Aug-14 6:09:23 AM :: Done Page ::9
+08-Aug-14 6:09:26 AM :: Done Page ::10
+08-Aug-14 6:09:26 AM :: http://www.geonames.org/advanced-search.html?q=&country=AX&featureClass=A
+08-Aug-14 6:09:28 AM :: Done Page ::1
+08-Aug-14 6:09:28 AM :: http://www.geonames.org/advanced-search.html?q=&country=AL&featureClass=A
+08-Aug-14 6:09:29 AM :: Done Page ::1
+08-Aug-14 6:09:31 AM :: Done Page ::2
+08-Aug-14 6:09:35 AM :: Done Page ::3
+08-Aug-14 6:09:39 AM :: Done Page ::4
+08-Aug-14 6:09:45 AM :: Done Page ::5
+08-Aug-14 6:09:56 AM :: Done Page ::6
+08-Aug-14 6:10:05 AM :: Done Page ::7
+08-Aug-14 6:10:08 AM :: Done Page ::8
+08-Aug-14 6:10:11 AM :: Done Page ::9
+08-Aug-14 6:10:14 AM :: Done Page ::10
+08-Aug-14 6:10:17 AM :: Done Page ::11
+08-Aug-14 6:10:21 AM :: Done Page ::12
+08-Aug-14 6:10:32 AM :: Done Page ::13
+08-Aug-14 6:10:32 AM :: http://www.geonames.org/advanced-search.html?q=&country=DZ&featureClass=A
+08-Aug-14 6:10:37 AM :: Done Page ::1
+08-Aug-14 6:10:41 AM :: Done Page ::2
+08-Aug-14 6:10:44 AM :: Done Page ::3
+08-Aug-14 6:10:47 AM :: Done Page ::4
+08-Aug-14 6:10:50 AM :: Done Page ::5
+08-Aug-14 6:10:54 AM :: Done Page ::6
+08-Aug-14 6:10:57 AM :: Done Page ::7
+08-Aug-14 6:11:00 AM :: Done Page ::8
+08-Aug-14 6:11:03 AM :: Done Page ::9
+08-Aug-14 6:11:07 AM :: Done Page ::10
+08-Aug-14 6:11:10 AM :: Done Page ::11
+08-Aug-14 6:11:14 AM :: Done Page ::12
+08-Aug-14 6:11:17 AM :: Done Page ::13
+08-Aug-14 6:11:21 AM :: Done Page ::14
+08-Aug-14 6:11:25 AM :: Done Page ::15
+08-Aug-14 6:11:29 AM :: Done Page ::16
+08-Aug-14 6:11:31 AM :: Done Page ::17
+08-Aug-14 6:11:31 AM :: http://www.geonames.org/advanced-search.html?q=&country=AS&featureClass=A
+08-Aug-14 6:11:39 AM :: Done Page ::1
+08-Aug-14 6:11:43 AM :: Done Page ::2
+08-Aug-14 6:11:44 AM :: Done Page ::3
+08-Aug-14 6:11:44 AM :: http://www.geonames.org/advanced-search.html?q=&country=AD&featureClass=A
+08-Aug-14 6:11:48 AM :: Done Page ::1
+08-Aug-14 6:11:53 AM :: Done Page ::2
+08-Aug-14 6:11:58 AM :: Done Page ::3
+08-Aug-14 6:12:00 AM :: Done Page ::4
+08-Aug-14 6:12:00 AM :: http://www.geonames.org/advanced-search.html?q=&country=AO&featureClass=A
+08-Aug-14 6:12:10 AM :: Done Page ::1
+08-Aug-14 6:12:21 AM :: Done Page ::2
+08-Aug-14 6:12:32 AM :: Done Page ::3
+08-Aug-14 6:12:39 AM :: Done Page ::4
+08-Aug-14 6:12:39 AM :: http://www.geonames.org/advanced-search.html?q=&country=AI&featureClass=A
+08-Aug-14 6:12:41 AM :: Done Page ::1
+08-Aug-14 6:12:41 AM :: http://www.geonames.org/advanced-search.html?q=&country=AQ&featureClass=A
+08-Aug-14 6:12:42 AM :: Done Page ::1
+08-Aug-14 6:12:42 AM :: http://www.geonames.org/advanced-search.html?q=&country=AG&featureClass=A
+08-Aug-14 6:12:46 AM :: Done Page ::1
+08-Aug-14 6:12:46 AM :: http://www.geonames.org/advanced-search.html?q=&country=AR&featureClass=A
+08-Aug-14 6:13:00 AM :: Done Page ::1
+08-Aug-14 6:13:12 AM :: Done Page ::2
+08-Aug-14 6:13:24 AM :: Done Page ::3
+08-Aug-14 6:13:36 AM :: Done Page ::4
+08-Aug-14 6:14:05 AM :: Done Page ::6
+08-Aug-14 6:14:21 AM :: Done Page ::7
+08-Aug-14 6:14:36 AM :: Done Page ::8
+08-Aug-14 6:14:53 AM :: Done Page ::9
+08-Aug-14 6:15:06 AM :: Done Page ::10
+08-Aug-14 6:15:20 AM :: Done Page ::11
+08-Aug-14 6:15:20 AM :: http://www.geonames.org/advanced-search.html?q=&country=AM&featureClass=A
+08-Aug-14 6:15:33 AM :: Done Page ::1
+08-Aug-14 6:15:39 AM :: Done Page ::2
+08-Aug-14 6:15:39 AM :: http://www.geonames.org/advanced-search.html?q=&country=AW&featureClass=A
+08-Aug-14 6:15:42 AM :: Done Page ::1
+08-Aug-14 6:15:42 AM :: http://www.geonames.org/advanced-search.html?q=&country=SH&featureClass=A
+08-Aug-14 6:15:47 AM :: Done Page ::1
+08-Aug-14 6:15:47 AM :: http://www.geonames.org/advanced-search.html?q=&country=AU&featureClass=A
+08-Aug-14 6:16:11 AM :: Done Page ::1
+08-Aug-14 6:16:30 AM :: Done Page ::2
+08-Aug-14 6:16:49 AM :: Done Page ::3
+08-Aug-14 6:17:11 AM :: Done Page ::4
+08-Aug-14 6:17:37 AM :: Done Page ::5
+08-Aug-14 6:18:00 AM :: Done Page ::6
+08-Aug-14 6:18:25 AM :: Done Page ::7
+08-Aug-14 6:18:49 AM :: Done Page ::8
+08-Aug-14 6:19:19 AM :: Done Page ::9
+08-Aug-14 6:19:47 AM :: Done Page ::10
+08-Aug-14 6:20:20 AM :: Done Page ::11
+08-Aug-14 6:20:36 AM :: Done Page ::12
+08-Aug-14 6:20:44 AM :: Done Page ::13
+08-Aug-14 6:20:51 AM :: Done Page ::14
+08-Aug-14 6:20:58 AM :: Done Page ::15
+08-Aug-14 6:21:06 AM :: Done Page ::16
+08-Aug-14 6:21:06 AM :: http://www.geonames.org/advanced-search.html?q=&country=AT&featureClass=A
+08-Aug-14 6:21:37 AM :: Done Page ::1
+08-Aug-14 6:22:03 AM :: Done Page ::2
+08-Aug-14 6:22:30 AM :: Done Page ::3
+08-Aug-14 6:23:03 AM :: Done Page ::4
+08-Aug-14 6:23:34 AM :: Done Page ::5
+08-Aug-14 6:24:05 AM :: Done Page ::6
+08-Aug-14 6:24:32 AM :: Done Page ::7
+08-Aug-14 6:25:01 AM :: Done Page ::8
+08-Aug-14 6:25:31 AM :: Done Page ::9
+08-Aug-14 6:26:03 AM :: Done Page ::10
+08-Aug-14 6:26:30 AM :: Done Page ::11
+08-Aug-14 6:27:00 AM :: Done Page ::12
+08-Aug-14 6:27:35 AM :: Done Page ::13
+08-Aug-14 6:28:06 AM :: Done Page ::14
+08-Aug-14 6:28:39 AM :: Done Page ::15
+08-Aug-14 6:29:14 AM :: Done Page ::16
+08-Aug-14 6:29:47 AM :: Done Page ::17
+08-Aug-14 6:30:23 AM :: Done Page ::18
+08-Aug-14 6:30:59 AM :: Done Page ::19
+08-Aug-14 6:31:32 AM :: Done Page ::20
+08-Aug-14 6:32:04 AM :: Done Page ::21
+08-Aug-14 6:32:41 AM :: Done Page ::22
+08-Aug-14 6:33:18 AM :: Done Page ::23
+08-Aug-14 6:33:56 AM :: Done Page ::24
+08-Aug-14 6:34:33 AM :: Done Page ::25
+08-Aug-14 6:35:13 AM :: Done Page ::26
+08-Aug-14 6:35:48 AM :: Done Page ::27
+08-Aug-14 6:36:23 AM :: Done Page ::28
+08-Aug-14 6:36:59 AM :: Done Page ::29
+08-Aug-14 6:37:36 AM :: Done Page ::30
+08-Aug-14 6:38:12 AM :: Done Page ::31
+08-Aug-14 6:38:51 AM :: Done Page ::32
+08-Aug-14 6:39:27 AM :: Done Page ::33
+08-Aug-14 6:40:05 AM :: Done Page ::34
+08-Aug-14 6:40:42 AM :: Done Page ::35
+08-Aug-14 6:41:24 AM :: Done Page ::36
+08-Aug-14 6:41:59 AM :: Done Page ::37
+08-Aug-14 6:42:40 AM :: Done Page ::38
+08-Aug-14 6:43:24 AM :: Done Page ::39
+08-Aug-14 6:44:07 AM :: Done Page ::40
+08-Aug-14 6:44:51 AM :: Done Page ::41
+08-Aug-14 6:45:28 AM :: Done Page ::42
+08-Aug-14 6:46:12 AM :: Done Page ::43
+08-Aug-14 6:46:51 AM :: Done Page ::44
+08-Aug-14 6:47:30 AM :: Done Page ::45
+08-Aug-14 6:48:09 AM :: Done Page ::46
+08-Aug-14 6:48:43 AM :: Done Page ::47
+08-Aug-14 6:49:08 AM :: Done Page ::48
+08-Aug-14 6:49:31 AM :: Done Page ::49
+08-Aug-14 6:49:57 AM :: Done Page ::50
+08-Aug-14 6:50:22 AM :: Done Page ::51
+08-Aug-14 6:50:49 AM :: Done Page ::52
+08-Aug-14 6:51:13 AM :: Done Page ::53
+08-Aug-14 6:51:26 AM :: Done Page ::54
+08-Aug-14 6:51:26 AM :: http://www.geonames.org/advanced-search.html?q=&country=AZ&featureClass=A
+08-Aug-14 6:52:05 AM :: Done Page ::1
+08-Aug-14 6:52:38 AM :: Done Page ::2
+08-Aug-14 6:52:44 AM :: Done Page ::3
+08-Aug-14 6:52:44 AM :: http://www.geonames.org/advanced-search.html?q=&country=BS&featureClass=A
+08-Aug-14 6:52:54 AM :: Done Page ::1
+08-Aug-14 6:52:54 AM :: http://www.geonames.org/advanced-search.html?q=&country=BH&featureClass=A
+08-Aug-14 6:53:01 AM :: Done Page ::1
+08-Aug-14 6:53:01 AM :: http://www.geonames.org/advanced-search.html?q=&country=BD&featureClass=A
+08-Aug-14 6:53:53 AM :: Done Page ::1
+08-Aug-14 6:54:30 AM :: Done Page ::2
+08-Aug-14 6:54:45 AM :: Done Page ::3
+08-Aug-14 6:54:58 AM :: Done Page ::4
+08-Aug-14 6:55:12 AM :: Done Page ::5
+08-Aug-14 6:55:29 AM :: Done Page ::6
+08-Aug-14 6:55:42 AM :: Done Page ::7
+08-Aug-14 6:55:55 AM :: Done Page ::8
+08-Aug-14 6:56:08 AM :: Done Page ::9
+08-Aug-14 6:56:23 AM :: Done Page ::10
+08-Aug-14 6:56:27 AM :: Done Page ::11
+08-Aug-14 6:56:27 AM :: http://www.geonames.org/advanced-search.html?q=&country=BB&featureClass=A
+08-Aug-14 6:56:38 AM :: Done Page ::1
+08-Aug-14 6:56:38 AM :: http://www.geonames.org/advanced-search.html?q=&country=BY&featureClass=A
+08-Aug-14 6:57:21 AM :: Done Page ::1
+08-Aug-14 6:58:02 AM :: Done Page ::2
+08-Aug-14 6:58:42 AM :: Done Page ::3
+08-Aug-14 6:59:06 AM :: Done Page ::4
+08-Aug-14 6:59:10 AM :: Done Page ::5
+08-Aug-14 6:59:10 AM :: http://www.geonames.org/advanced-search.html?q=&country=BE&featureClass=A
+08-Aug-14 6:59:54 AM :: Done Page ::1
+08-Aug-14 7:00:44 AM :: Done Page ::2
+08-Aug-14 7:01:33 AM :: Done Page ::3
+08-Aug-14 7:02:24 AM :: Done Page ::4
+08-Aug-14 7:03:14 AM :: Done Page ::5
+08-Aug-14 7:04:06 AM :: Done Page ::6
+08-Aug-14 7:04:58 AM :: Done Page ::7
+08-Aug-14 7:05:50 AM :: Done Page ::8
+08-Aug-14 7:06:42 AM :: Done Page ::9
+08-Aug-14 7:07:36 AM :: Done Page ::10
+08-Aug-14 7:08:28 AM :: Done Page ::11
+08-Aug-14 7:09:21 AM :: Done Page ::12
+08-Aug-14 7:10:14 AM :: Done Page ::13
+08-Aug-14 7:10:16 AM :: Done Page ::14
+08-Aug-14 7:10:16 AM :: http://www.geonames.org/advanced-search.html?q=&country=BZ&featureClass=A
+08-Aug-14 7:10:25 AM :: Done Page ::1
+08-Aug-14 7:10:25 AM :: http://www.geonames.org/advanced-search.html?q=&country=BJ&featureClass=A
+08-Aug-14 7:11:10 AM :: Done Page ::1
+08-Aug-14 7:11:36 AM :: Done Page ::2
+08-Aug-14 7:11:36 AM :: http://www.geonames.org/advanced-search.html?q=&country=BM&featureClass=A
+08-Aug-14 7:11:45 AM :: Done Page ::1
+08-Aug-14 7:11:45 AM :: http://www.geonames.org/advanced-search.html?q=&country=BT&featureClass=A
+08-Aug-14 7:12:26 AM :: Done Page ::1
+08-Aug-14 7:12:26 AM :: http://www.geonames.org/advanced-search.html?q=&country=BO&featureClass=A
+08-Aug-14 7:13:08 AM :: Done Page ::1
+08-Aug-14 7:13:50 AM :: Done Page ::2
+08-Aug-14 7:14:19 AM :: Done Page ::3
+08-Aug-14 7:14:56 AM :: Done Page ::4
+08-Aug-14 7:15:30 AM :: Done Page ::5
+08-Aug-14 7:15:44 AM :: Done Page ::6
+08-Aug-14 7:15:44 AM :: http://www.geonames.org/advanced-search.html?q=&country=BQ&featureClass=A
+08-Aug-14 7:15:47 AM :: Done Page ::1
+08-Aug-14 7:15:47 AM :: http://www.geonames.org/advanced-search.html?q=&country=BA&featureClass=A
+08-Aug-14 7:16:31 AM :: Done Page ::1
+08-Aug-14 7:17:10 AM :: Done Page ::2
+08-Aug-14 7:17:49 AM :: Done Page ::3
+08-Aug-14 7:18:02 AM :: Done Page ::4
+08-Aug-14 7:18:02 AM :: http://www.geonames.org/advanced-search.html?q=&country=BW&featureClass=A
+08-Aug-14 7:18:18 AM :: Done Page ::1
+08-Aug-14 7:18:18 AM :: http://www.geonames.org/advanced-search.html?q=&country=BV&featureClass=A
+08-Aug-14 7:18:20 AM :: Done Page ::1
+08-Aug-14 7:18:20 AM :: http://www.geonames.org/advanced-search.html?q=&country=BR&featureClass=A
+08-Aug-14 7:19:18 AM :: Done Page ::1
+08-Aug-14 7:20:09 AM :: Done Page ::2
+08-Aug-14 7:21:09 AM :: Done Page ::3
+08-Aug-14 7:22:10 AM :: Done Page ::4
+08-Aug-14 7:23:12 AM :: Done Page ::5
+08-Aug-14 7:24:13 AM :: Done Page ::6
+08-Aug-14 7:25:12 AM :: Done Page ::7
+08-Aug-14 7:26:12 AM :: Done Page ::8
+08-Aug-14 7:27:12 AM :: Done Page ::9
+08-Aug-14 7:28:15 AM :: Done Page ::10
+08-Aug-14 7:29:16 AM :: Done Page ::11
+08-Aug-14 7:30:17 AM :: Done Page ::12
+08-Aug-14 7:31:17 AM :: Done Page ::13
+08-Aug-14 7:32:17 AM :: Done Page ::14
+08-Aug-14 7:33:20 AM :: Done Page ::15
+08-Aug-14 7:34:24 AM :: Done Page ::16
+08-Aug-14 7:35:27 AM :: Done Page ::17
+08-Aug-14 7:36:31 AM :: Done Page ::18
+08-Aug-14 7:37:35 AM :: Done Page ::19
+08-Aug-14 7:38:41 AM :: Done Page ::20
+08-Aug-14 7:39:46 AM :: Done Page ::21
+08-Aug-14 7:40:52 AM :: Done Page ::22
+08-Aug-14 7:41:58 AM :: Done Page ::23
+08-Aug-14 7:43:06 AM :: Done Page ::24
+08-Aug-14 7:44:15 AM :: Done Page ::25
+08-Aug-14 7:45:21 AM :: Done Page ::26
+08-Aug-14 7:46:26 AM :: Done Page ::27
+08-Aug-14 7:47:33 AM :: Done Page ::28
+08-Aug-14 7:48:40 AM :: Done Page ::29
+08-Aug-14 7:49:47 AM :: Done Page ::30
+08-Aug-14 7:50:54 AM :: Done Page ::31
+08-Aug-14 7:52:04 AM :: Done Page ::32
+08-Aug-14 7:53:12 AM :: Done Page ::33
+08-Aug-14 7:54:21 AM :: Done Page ::34
+08-Aug-14 7:55:31 AM :: Done Page ::35
+08-Aug-14 7:56:41 AM :: Done Page ::36
+08-Aug-14 7:57:53 AM :: Done Page ::37
+08-Aug-14 7:59:05 AM :: Done Page ::38
+08-Aug-14 8:00:18 AM :: Done Page ::39
+08-Aug-14 8:01:35 AM :: Done Page ::40
+08-Aug-14 8:02:49 AM :: Done Page ::41
+08-Aug-14 8:04:01 AM :: Done Page ::42
+08-Aug-14 8:05:14 AM :: Done Page ::43
+08-Aug-14 8:06:28 AM :: Done Page ::44
+08-Aug-14 8:07:43 AM :: Done Page ::45
+08-Aug-14 8:08:56 AM :: Done Page ::46
+08-Aug-14 8:10:09 AM :: Done Page ::47
+08-Aug-14 8:11:24 AM :: Done Page ::48
+08-Aug-14 8:12:41 AM :: Done Page ::49
+08-Aug-14 8:13:59 AM :: Done Page ::50
+08-Aug-14 8:15:15 AM :: Done Page ::51
+08-Aug-14 8:16:33 AM :: Done Page ::52
+08-Aug-14 8:17:50 AM :: Done Page ::53
+08-Aug-14 8:19:08 AM :: Done Page ::54
+08-Aug-14 8:20:26 AM :: Done Page ::55
+08-Aug-14 8:21:44 AM :: Done Page ::56
+08-Aug-14 8:23:00 AM :: Done Page ::57
+08-Aug-14 8:24:23 AM :: Done Page ::58
+08-Aug-14 8:25:41 AM :: Done Page ::59
+08-Aug-14 8:27:03 AM :: Done Page ::60
+08-Aug-14 8:28:25 AM :: Done Page ::61
+08-Aug-14 8:29:48 AM :: Done Page ::62
+08-Aug-14 8:31:07 AM :: Done Page ::63
+08-Aug-14 8:32:29 AM :: Done Page ::64
+08-Aug-14 8:33:51 AM :: Done Page ::65
+08-Aug-14 8:35:16 AM :: Done Page ::66
+08-Aug-14 8:36:37 AM :: Done Page ::67
+08-Aug-14 8:38:00 AM :: Done Page ::68
+08-Aug-14 8:39:25 AM :: Done Page ::69
+08-Aug-14 8:40:48 AM :: Done Page ::70
+08-Aug-14 8:42:12 AM :: Done Page ::71
+08-Aug-14 8:43:38 AM :: Done Page ::72
+08-Aug-14 8:45:04 AM :: Done Page ::73
+08-Aug-14 8:46:28 AM :: Done Page ::74
+08-Aug-14 8:47:56 AM :: Done Page ::75
+08-Aug-14 8:49:19 AM :: Done Page ::76
+08-Aug-14 8:50:46 AM :: Done Page ::77
+08-Aug-14 8:52:11 AM :: Done Page ::78
+08-Aug-14 8:53:41 AM :: Done Page ::79
+08-Aug-14 8:55:07 AM :: Done Page ::80
+08-Aug-14 8:56:34 AM :: Done Page ::81
+08-Aug-14 8:58:04 AM :: Done Page ::82
+08-Aug-14 8:59:49 AM :: Done Page ::83
+08-Aug-14 9:01:21 AM :: Done Page ::84
+08-Aug-14 9:02:54 AM :: Done Page ::85
+08-Aug-14 9:04:21 AM :: Done Page ::86
+08-Aug-14 9:05:48 AM :: Done Page ::87
+08-Aug-14 9:07:20 AM :: Done Page ::88
+08-Aug-14 9:08:48 AM :: Done Page ::89
+08-Aug-14 9:10:25 AM :: Done Page ::90
+08-Aug-14 9:11:58 AM :: Done Page ::91
+08-Aug-14 9:13:31 AM :: Done Page ::92
+08-Aug-14 9:15:04 AM :: Done Page ::93
+08-Aug-14 9:16:38 AM :: Done Page ::94
+08-Aug-14 9:18:09 AM :: Done Page ::95
+08-Aug-14 9:19:44 AM :: Done Page ::96
+08-Aug-14 9:21:16 AM :: Done Page ::97
+08-Aug-14 9:22:50 AM :: Done Page ::98
+08-Aug-14 9:24:23 AM :: Done Page ::99
+08-Aug-14 9:25:56 AM :: Done Page ::100
+08-Aug-14 9:27:30 AM :: Done Page ::101
+08-Aug-14 9:27:30 AM :: http://www.geonames.org/advanced-search.html?q=&country=IO&featureClass=A
+08-Aug-14 9:27:32 AM :: Done Page ::1
+08-Aug-14 9:27:32 AM :: http://www.geonames.org/advanced-search.html?q=&country=VG&featureClass=A
+08-Aug-14 9:27:34 AM :: Done Page ::1
+08-Aug-14 9:27:34 AM :: http://www.geonames.org/advanced-search.html?q=&country=BN&featureClass=A
+08-Aug-14 9:27:41 AM :: Done Page ::1
+08-Aug-14 9:27:41 AM :: http://www.geonames.org/advanced-search.html?q=&country=BG&featureClass=A
+08-Aug-14 9:28:58 AM :: Done Page ::1
+08-Aug-14 9:30:22 AM :: Done Page ::2
+08-Aug-14 9:31:43 AM :: Done Page ::3
+08-Aug-14 9:32:58 AM :: Done Page ::4
+08-Aug-14 9:34:15 AM :: Done Page ::5
+08-Aug-14 9:35:31 AM :: Done Page ::6
+08-Aug-14 9:36:49 AM :: Done Page ::7
+08-Aug-14 9:38:07 AM :: Done Page ::8
+08-Aug-14 9:39:26 AM :: Done Page ::9
+08-Aug-14 9:40:44 AM :: Done Page ::10
+08-Aug-14 9:42:03 AM :: Done Page ::11
+08-Aug-14 9:43:22 AM :: Done Page ::12
+08-Aug-14 9:44:41 AM :: Done Page ::13
+08-Aug-14 9:46:01 AM :: Done Page ::14
+08-Aug-14 9:47:21 AM :: Done Page ::15
+08-Aug-14 9:48:41 AM :: Done Page ::16
+08-Aug-14 9:49:59 AM :: Done Page ::17
+08-Aug-14 9:51:20 AM :: Done Page ::18
+08-Aug-14 9:52:41 AM :: Done Page ::19
+08-Aug-14 9:53:57 AM :: Done Page ::20
+08-Aug-14 9:55:18 AM :: Done Page ::21
+08-Aug-14 9:56:36 AM :: Done Page ::22
+08-Aug-14 9:57:59 AM :: Done Page ::23
+08-Aug-14 9:59:14 AM :: Done Page ::24
+08-Aug-14 10:00:33 AM :: Done Page ::25
+08-Aug-14 10:01:54 AM :: Done Page ::26
+08-Aug-14 10:03:16 AM :: Done Page ::27
+08-Aug-14 10:04:40 AM :: Done Page ::28
+08-Aug-14 10:06:04 AM :: Done Page ::29
+08-Aug-14 10:07:28 AM :: Done Page ::30
+08-Aug-14 10:08:47 AM :: Done Page ::31
+08-Aug-14 10:10:03 AM :: Done Page ::32
+08-Aug-14 10:11:26 AM :: Done Page ::33
+08-Aug-14 10:12:50 AM :: Done Page ::34
+08-Aug-14 10:14:11 AM :: Done Page ::35
+08-Aug-14 10:15:34 AM :: Done Page ::36
+08-Aug-14 10:16:57 AM :: Done Page ::37
+08-Aug-14 10:18:17 AM :: Done Page ::38
+08-Aug-14 10:19:39 AM :: Done Page ::39
+08-Aug-14 10:21:03 AM :: Done Page ::40
+08-Aug-14 10:22:18 AM :: Done Page ::41
+08-Aug-14 10:23:43 AM :: Done Page ::42
+08-Aug-14 10:25:10 AM :: Done Page ::43
+08-Aug-14 10:26:40 AM :: Done Page ::44
+08-Aug-14 10:28:06 AM :: Done Page ::45
+08-Aug-14 10:29:27 AM :: Done Page ::46
+08-Aug-14 10:30:51 AM :: Done Page ::47
+08-Aug-14 10:32:17 AM :: Done Page ::48
+08-Aug-14 10:33:37 AM :: Done Page ::49
+08-Aug-14 10:35:02 AM :: Done Page ::50
+08-Aug-14 10:36:26 AM :: Done Page ::51
+08-Aug-14 10:37:57 AM :: Done Page ::52
+08-Aug-14 10:39:17 AM :: Done Page ::53
+08-Aug-14 10:40:54 AM :: Done Page ::54
+08-Aug-14 10:42:22 AM :: Done Page ::55
+08-Aug-14 10:43:46 AM :: Done Page ::56
+08-Aug-14 10:45:16 AM :: Done Page ::57
+08-Aug-14 10:45:56 AM :: Done Page ::58
+08-Aug-14 10:46:54 AM :: Done Page ::59
+08-Aug-14 10:46:54 AM :: http://www.geonames.org/advanced-search.html?q=&country=BF&featureClass=A
+08-Aug-14 10:48:57 AM :: Done Page ::1
+08-Aug-14 10:49:31 AM :: Done Page ::2
+08-Aug-14 10:49:31 AM :: http://www.geonames.org/advanced-search.html?q=&country=BI&featureClass=A
+08-Aug-14 10:51:16 AM :: Done Page ::1
+08-Aug-14 10:52:48 AM :: Done Page ::2
+08-Aug-14 10:54:11 AM :: Done Page ::3
+08-Aug-14 10:54:11 AM :: http://www.geonames.org/advanced-search.html?q=&country=KH&featureClass=A
+08-Aug-14 10:55:47 AM :: Done Page ::1
+08-Aug-14 10:57:45 AM :: Done Page ::2
+08-Aug-14 10:59:42 AM :: Done Page ::3
+08-Aug-14 11:01:12 AM :: Done Page ::4
+08-Aug-14 11:02:15 AM :: Done Page ::5
+08-Aug-14 11:02:48 AM :: Done Page ::6
+08-Aug-14 11:03:19 AM :: Done Page ::7
+08-Aug-14 11:03:19 AM :: http://www.geonames.org/advanced-search.html?q=&country=CM&featureClass=A
+08-Aug-14 11:05:00 AM :: Done Page ::1
+08-Aug-14 11:06:01 AM :: Done Page ::2
+08-Aug-14 11:06:01 AM :: http://www.geonames.org/advanced-search.html?q=&country=CA&featureClass=A
+08-Aug-14 11:07:45 AM :: Done Page ::1
+08-Aug-14 11:09:21 AM :: Done Page ::2
+08-Aug-14 11:10:48 AM :: Done Page ::3
+08-Aug-14 11:11:21 AM :: Done Page ::4
+08-Aug-14 11:11:51 AM :: Done Page ::5
+08-Aug-14 11:12:23 AM :: Done Page ::6
+08-Aug-14 11:12:53 AM :: Done Page ::7
+08-Aug-14 11:13:24 AM :: Done Page ::8
+08-Aug-14 11:13:54 AM :: Done Page ::9
+08-Aug-14 11:14:23 AM :: Done Page ::10
+08-Aug-14 11:14:55 AM :: Done Page ::11
+08-Aug-14 11:15:25 AM :: Done Page ::12
+08-Aug-14 11:16:03 AM :: Done Page ::13
+08-Aug-14 11:16:44 AM :: Done Page ::14
+08-Aug-14 11:17:21 AM :: Done Page ::15
+08-Aug-14 11:17:54 AM :: Done Page ::16
+08-Aug-14 11:18:33 AM :: Done Page ::17
+08-Aug-14 11:19:17 AM :: Done Page ::18
+08-Aug-14 11:19:56 AM :: Done Page ::19
+08-Aug-14 11:20:29 AM :: Done Page ::20
+08-Aug-14 11:21:07 AM :: Done Page ::21
+08-Aug-14 11:21:50 AM :: Done Page ::22
+08-Aug-14 11:22:28 AM :: Done Page ::23
+08-Aug-14 11:23:04 AM :: Done Page ::24
+08-Aug-14 11:23:44 AM :: Done Page ::25
+08-Aug-14 11:24:21 AM :: Done Page ::26
+08-Aug-14 11:24:55 AM :: Done Page ::27
+08-Aug-14 11:26:18 AM :: Done Page ::28
+08-Aug-14 11:27:57 AM :: Done Page ::29
+08-Aug-14 11:28:42 AM :: Done Page ::30
+08-Aug-14 11:29:18 AM :: Done Page ::31
+08-Aug-14 11:29:54 AM :: Done Page ::32
+08-Aug-14 11:30:29 AM :: Done Page ::33
+08-Aug-14 11:31:09 AM :: Done Page ::34
+08-Aug-14 11:31:48 AM :: Done Page ::35
+08-Aug-14 11:32:36 AM :: Done Page ::36
+08-Aug-14 11:34:14 AM :: Done Page ::37
+08-Aug-14 11:35:51 AM :: Done Page ::38
+08-Aug-14 11:37:30 AM :: Done Page ::39
+08-Aug-14 11:39:10 AM :: Done Page ::40
+08-Aug-14 11:40:50 AM :: Done Page ::41
+08-Aug-14 11:42:30 AM :: Done Page ::42
+08-Aug-14 11:44:10 AM :: Done Page ::43
+08-Aug-14 11:45:49 AM :: Done Page ::44
+08-Aug-14 11:47:30 AM :: Done Page ::45
+08-Aug-14 11:49:09 AM :: Done Page ::46
+08-Aug-14 11:50:53 AM :: Done Page ::47
+08-Aug-14 11:52:35 AM :: Done Page ::48
+08-Aug-14 11:54:15 AM :: Done Page ::49
+08-Aug-14 11:55:52 AM :: Done Page ::50
+08-Aug-14 11:57:34 AM :: Done Page ::51
+08-Aug-14 11:59:11 AM :: Done Page ::52
+08-Aug-14 12:00:48 PM :: Done Page ::53
+08-Aug-14 12:02:25 PM :: Done Page ::54
+08-Aug-14 12:03:34 PM :: Done Page ::55
+08-Aug-14 12:03:34 PM :: http://www.geonames.org/advanced-search.html?q=&country=CV&featureClass=A
+08-Aug-14 12:04:10 PM :: Done Page ::1
+08-Aug-14 12:04:10 PM :: http://www.geonames.org/advanced-search.html?q=&country=KY&featureClass=A
+08-Aug-14 12:04:18 PM :: Done Page ::1
+08-Aug-14 12:04:18 PM :: http://www.geonames.org/advanced-search.html?q=&country=CF&featureClass=A
+08-Aug-14 12:06:24 PM :: Done Page ::1
+08-Aug-14 12:07:55 PM :: Done Page ::2
+08-Aug-14 12:07:55 PM :: http://www.geonames.org/advanced-search.html?q=&country=TD&featureClass=A
+08-Aug-14 12:09:43 PM :: Done Page ::1
+08-Aug-14 12:10:12 PM :: Done Page ::2
+08-Aug-14 12:10:12 PM :: http://www.geonames.org/advanced-search.html?q=&country=CL&featureClass=A
+08-Aug-14 12:12:06 PM :: Done Page ::1
+08-Aug-14 12:13:50 PM :: Done Page ::2
+08-Aug-14 12:15:25 PM :: Done Page ::3
+08-Aug-14 12:17:08 PM :: Done Page ::4
+08-Aug-14 12:18:54 PM :: Done Page ::5
+08-Aug-14 12:20:38 PM :: Done Page ::6
+08-Aug-14 12:22:24 PM :: Done Page ::7
+08-Aug-14 12:24:10 PM :: Done Page ::8
+08-Aug-14 12:24:57 PM :: Done Page ::9
+08-Aug-14 12:24:57 PM :: http://www.geonames.org/advanced-search.html?q=&country=CN&featureClass=A
+08-Aug-14 12:26:54 PM :: Done Page ::1
+08-Aug-14 12:28:56 PM :: Done Page ::2
+08-Aug-14 12:30:52 PM :: Done Page ::3
+08-Aug-14 12:32:40 PM :: Done Page ::4
+08-Aug-14 12:34:31 PM :: Done Page ::5
+08-Aug-14 12:36:22 PM :: Done Page ::6
+08-Aug-14 12:38:11 PM :: Done Page ::7
+08-Aug-14 12:39:40 PM :: Done Page ::8
+08-Aug-14 12:40:40 PM :: Done Page ::9
+08-Aug-14 12:41:33 PM :: Done Page ::10
+08-Aug-14 12:42:13 PM :: Done Page ::11
+08-Aug-14 12:42:52 PM :: Done Page ::12
+08-Aug-14 12:43:30 PM :: Done Page ::13
+08-Aug-14 12:44:09 PM :: Done Page ::14
+08-Aug-14 12:44:48 PM :: Done Page ::15
+08-Aug-14 12:45:26 PM :: Done Page ::16
+08-Aug-14 12:46:03 PM :: Done Page ::17
+08-Aug-14 12:46:44 PM :: Done Page ::18
+08-Aug-14 12:47:24 PM :: Done Page ::19
+08-Aug-14 12:48:03 PM :: Done Page ::20
+08-Aug-14 12:48:47 PM :: Done Page ::21
+08-Aug-14 12:49:26 PM :: Done Page ::22
+08-Aug-14 12:50:07 PM :: Done Page ::23
+08-Aug-14 12:50:49 PM :: Done Page ::24
+08-Aug-14 12:51:27 PM :: Done Page ::25
+08-Aug-14 12:52:05 PM :: Done Page ::26
+08-Aug-14 12:52:46 PM :: Done Page ::27
+08-Aug-14 12:53:25 PM :: Done Page ::28
+08-Aug-14 12:54:04 PM :: Done Page ::29
+08-Aug-14 12:54:43 PM :: Done Page ::30
+08-Aug-14 12:55:22 PM :: Done Page ::31
+08-Aug-14 12:56:02 PM :: Done Page ::32
+08-Aug-14 12:56:43 PM :: Done Page ::33
+08-Aug-14 12:57:22 PM :: Done Page ::34
+08-Aug-14 12:58:02 PM :: Done Page ::35
+08-Aug-14 12:58:42 PM :: Done Page ::36
+08-Aug-14 12:59:20 PM :: Done Page ::37
+08-Aug-14 1:00:01 PM :: Done Page ::38
+08-Aug-14 1:00:41 PM :: Done Page ::39
+08-Aug-14 1:01:20 PM :: Done Page ::40
+08-Aug-14 1:02:04 PM :: Done Page ::41
+08-Aug-14 1:02:44 PM :: Done Page ::42
+08-Aug-14 1:03:27 PM :: Done Page ::43
+08-Aug-14 1:04:13 PM :: Done Page ::44
+08-Aug-14 1:04:54 PM :: Done Page ::45
+08-Aug-14 1:05:34 PM :: Done Page ::46
+08-Aug-14 1:06:16 PM :: Done Page ::47
+08-Aug-14 1:06:58 PM :: Done Page ::48
+08-Aug-14 1:07:43 PM :: Done Page ::49
+08-Aug-14 1:08:25 PM :: Done Page ::50
+08-Aug-14 1:09:05 PM :: Done Page ::51
+08-Aug-14 1:09:45 PM :: Done Page ::52
+08-Aug-14 1:10:25 PM :: Done Page ::53
+08-Aug-14 1:11:02 PM :: Done Page ::54
+08-Aug-14 1:11:48 PM :: Done Page ::55
+08-Aug-14 1:12:26 PM :: Done Page ::56
+08-Aug-14 1:13:09 PM :: Done Page ::57
+08-Aug-14 1:14:00 PM :: Done Page ::58
+08-Aug-14 1:14:40 PM :: Done Page ::59
+08-Aug-14 1:15:22 PM :: Done Page ::60
+08-Aug-14 1:16:02 PM :: Done Page ::61
+08-Aug-14 1:16:43 PM :: Done Page ::62
+08-Aug-14 1:17:24 PM :: Done Page ::63
+08-Aug-14 1:18:05 PM :: Done Page ::64
+08-Aug-14 1:18:44 PM :: Done Page ::65
+08-Aug-14 1:19:23 PM :: Done Page ::66
+08-Aug-14 1:20:02 PM :: Done Page ::67
+08-Aug-14 1:20:42 PM :: Done Page ::68
+08-Aug-14 1:21:22 PM :: Done Page ::69
+08-Aug-14 1:22:02 PM :: Done Page ::70
+08-Aug-14 1:22:43 PM :: Done Page ::71
+08-Aug-14 1:23:22 PM :: Done Page ::72
+08-Aug-14 1:24:04 PM :: Done Page ::73
+08-Aug-14 1:24:45 PM :: Done Page ::74
+08-Aug-14 1:25:26 PM :: Done Page ::75
+08-Aug-14 1:26:05 PM :: Done Page ::76
+08-Aug-14 1:26:45 PM :: Done Page ::77
+08-Aug-14 1:27:24 PM :: Done Page ::78
+08-Aug-14 1:28:07 PM :: Done Page ::79
+08-Aug-14 1:28:47 PM :: Done Page ::80
+08-Aug-14 1:29:28 PM :: Done Page ::81
+08-Aug-14 1:30:09 PM :: Done Page ::82
+08-Aug-14 1:30:49 PM :: Done Page ::83
+08-Aug-14 1:31:29 PM :: Done Page ::84
+08-Aug-14 1:32:07 PM :: Done Page ::85
+08-Aug-14 1:32:48 PM :: Done Page ::86
+08-Aug-14 1:33:29 PM :: Done Page ::87
+08-Aug-14 1:34:08 PM :: Done Page ::88
+08-Aug-14 1:34:49 PM :: Done Page ::89
+08-Aug-14 1:35:30 PM :: Done Page ::90
+08-Aug-14 1:36:11 PM :: Done Page ::91
+08-Aug-14 1:36:51 PM :: Done Page ::92
+08-Aug-14 1:37:31 PM :: Done Page ::93
+08-Aug-14 1:38:11 PM :: Done Page ::94
+08-Aug-14 1:38:52 PM :: Done Page ::95
+08-Aug-14 1:39:33 PM :: Done Page ::96
+08-Aug-14 1:40:13 PM :: Done Page ::97
+08-Aug-14 1:40:53 PM :: Done Page ::98
+08-Aug-14 1:41:34 PM :: Done Page ::99
+08-Aug-14 1:42:15 PM :: Done Page ::100
+08-Aug-14 1:42:54 PM :: Done Page ::101
+08-Aug-14 1:42:54 PM :: http://www.geonames.org/advanced-search.html?q=&country=CX&featureClass=A
+08-Aug-14 1:42:57 PM :: Done Page ::1
+08-Aug-14 1:42:57 PM :: http://www.geonames.org/advanced-search.html?q=&country=CC&featureClass=A
+08-Aug-14 1:42:58 PM :: Done Page ::1
+08-Aug-14 1:42:58 PM :: http://www.geonames.org/advanced-search.html?q=&country=CO&featureClass=A
+08-Aug-14 1:45:11 PM :: Done Page ::1
+08-Aug-14 1:47:22 PM :: Done Page ::2
+08-Aug-14 1:49:22 PM :: Done Page ::3
+08-Aug-14 1:51:21 PM :: Done Page ::4
+08-Aug-14 1:53:18 PM :: Done Page ::5
+08-Aug-14 1:55:15 PM :: Done Page ::6
+08-Aug-14 1:57:13 PM :: Done Page ::7
+08-Aug-14 1:59:02 PM :: Done Page ::8
+08-Aug-14 2:00:59 PM :: Done Page ::9
+08-Aug-14 2:02:56 PM :: Done Page ::10
+08-Aug-14 2:04:56 PM :: Done Page ::11
+08-Aug-14 2:06:50 PM :: Done Page ::12
+08-Aug-14 2:08:51 PM :: Done Page ::13
+08-Aug-14 2:10:51 PM :: Done Page ::14
+08-Aug-14 2:12:49 PM :: Done Page ::15
+08-Aug-14 2:14:43 PM :: Done Page ::16
+08-Aug-14 2:16:42 PM :: Done Page ::17
+08-Aug-14 2:18:40 PM :: Done Page ::18
+08-Aug-14 2:20:35 PM :: Done Page ::19
+08-Aug-14 2:22:32 PM :: Done Page ::20
+08-Aug-14 2:24:36 PM :: Done Page ::21
+08-Aug-14 2:26:36 PM :: Done Page ::22
+08-Aug-14 2:28:31 PM :: Done Page ::23
+08-Aug-14 2:29:14 PM :: Done Page ::24
+08-Aug-14 2:29:14 PM :: http://www.geonames.org/advanced-search.html?q=&country=KM&featureClass=A
+08-Aug-14 2:29:24 PM :: Done Page ::1
+08-Aug-14 2:29:24 PM :: http://www.geonames.org/advanced-search.html?q=&country=CG&featureClass=A
+08-Aug-14 2:31:36 PM :: Done Page ::1
+08-Aug-14 2:31:48 PM :: Done Page ::2
+08-Aug-14 2:31:48 PM :: http://www.geonames.org/advanced-search.html?q=&country=CD&featureClass=A
+08-Aug-14 2:33:58 PM :: Done Page ::1
+08-Aug-14 2:35:59 PM :: Done Page ::2
+08-Aug-14 2:37:54 PM :: Done Page ::3
+08-Aug-14 2:39:40 PM :: Done Page ::4
+08-Aug-14 2:41:39 PM :: Done Page ::5
+08-Aug-14 2:42:39 PM :: Done Page ::6
+08-Aug-14 2:42:39 PM :: http://www.geonames.org/advanced-search.html?q=&country=CK&featureClass=A
+08-Aug-14 2:42:55 PM :: Done Page ::1
+08-Aug-14 2:42:55 PM :: http://www.geonames.org/advanced-search.html?q=&country=CR&featureClass=A
+08-Aug-14 2:45:05 PM :: Done Page ::1
+08-Aug-14 2:46:49 PM :: Done Page ::2
+08-Aug-14 2:46:49 PM :: http://www.geonames.org/advanced-search.html?q=&country=HR&featureClass=A
+08-Aug-14 2:48:59 PM :: Done Page ::1
+08-Aug-14 2:51:17 PM :: Done Page ::2
+08-Aug-14 2:52:43 PM :: Done Page ::3
+08-Aug-14 2:52:43 PM :: http://www.geonames.org/advanced-search.html?q=&country=CU&featureClass=A
+08-Aug-14 2:55:07 PM :: Done Page ::1
+08-Aug-14 2:57:27 PM :: Done Page ::2
+08-Aug-14 2:59:22 PM :: Done Page ::3
+08-Aug-14 2:59:22 PM :: http://www.geonames.org/advanced-search.html?q=&country=CW&featureClass=A
+08-Aug-14 2:59:24 PM :: Done Page ::1
+08-Aug-14 2:59:24 PM :: http://www.geonames.org/advanced-search.html?q=&country=CY&featureClass=A
+08-Aug-14 2:59:38 PM :: Done Page ::1
+08-Aug-14 2:59:38 PM :: http://www.geonames.org/advanced-search.html?q=&country=CZ&featureClass=A
+08-Aug-14 3:02:40 PM :: Done Page ::1
+08-Aug-14 3:05:40 PM :: Done Page ::2
+08-Aug-14 3:06:34 PM :: Done Page ::3
+08-Aug-14 3:06:34 PM :: http://www.geonames.org/advanced-search.html?q=&country=DK&featureClass=A
+08-Aug-14 3:09:41 PM :: Done Page ::1
+08-Aug-14 3:12:41 PM :: Done Page ::2
+08-Aug-14 3:12:59 PM :: Done Page ::3
+08-Aug-14 3:12:59 PM :: http://www.geonames.org/advanced-search.html?q=&country=DJ&featureClass=A
+08-Aug-14 3:13:17 PM :: Done Page ::1
+08-Aug-14 3:13:17 PM :: http://www.geonames.org/advanced-search.html?q=&country=DM&featureClass=A
+08-Aug-14 3:13:45 PM :: Done Page ::1
+08-Aug-14 3:13:45 PM :: http://www.geonames.org/advanced-search.html?q=&country=DO&featureClass=A
+08-Aug-14 3:16:26 PM :: Done Page ::1
